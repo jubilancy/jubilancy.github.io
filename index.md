@@ -1,9 +1,5 @@
 hello world!
-hi i'm
 
-# eliana
-
-i do stuff
 
 
 <p align="center">
