@@ -1,0 +1,18 @@
+title: eliana
+description: my digital garden
+url: "https://jubilancy.github.io"
+baseurl: ""
+
+theme: jekyll-theme-primer
+
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
