@@ -1,0 +1,75 @@
+- Steve Huffman/Spez.
+- u/awkwardtheturtle
+- Aaron Swartz's Suicide.
+- u/Floridaman_SS
+- r/subredditsimulator
+- Reddit Powerups.
+- r/FatPeopleHate
+- r/Shoplifting
+- The Roswell Incident was a Soviet Aircraft.
+- Mister Splashy Pants Logo/meme.
+- r/Pee
+- Living the Dream.
+- r/carlhprogramming
+- r/technology
+- r/BlackPeopleTwitter
+- r/FemaleDatingStrategy
+- r/place/The Place.
+- u/jimthefeeder
+- r/fedlegs
+- Eric Andre controls New York.
+- Rape Report Spam in r/Men'sRights and 4chan.
+- r/Men'sRights Doxing Incident.
+- r/Incels
+- r/Femcels
+- Steve Huffman/Spez.
+- u/awkwardtheturtle
+- Aaron Swartz's Suicide.
+- u/Floridaman_SS
+- r/subredditsimulator
+- Reddit Powerups.
+- r/FatPeopleHate
+- r/Shoplifting
+- The Roswell Incident was a Soviet Aircraft.
+- Mister Splashy Pants Logo/meme.
+- r/Pee
+- Living the Dream.
+- r/carlhprogramming
+- r/technology
+- r/BlackPeopleTwitter
+- r/FemaleDatingStrategy
+- r/place/The Place.
+- u/jimthefeeder
+- r/fedlegs
+- Eric Andre controls New York.
+- Rape Report Spam in r/Men'sRights and 4chan.
+- r/Men'sRights Doxing Incident.
+- r/Incels
+- r/Femcels
+- r/chrisolivertimes
+- u/YAYVIDEOGAMES
+- r/WtWFotMJaJtRAtCaB
+- r/Gore
+- r/GunsForSale
+- r/SanctionedSuicide
+- r/FindBostonBombers
+- u/jasoninhell
+- r/Creepshots
+- u/C-A-A-M-I-B
+- Reddit is ran by Google.
+- u/darylprat
+- r/DarkNetMarkets
+- r/Jakolandia
+- r/Jailbait
+- r/SonyGOP
+- r/Drugs
+- r/A858DE45F56D9BC9
+- r/awakened
+- u/Alegretta
+- u/worthless319
+- r/WatchPeopleDie
+- The Whistler.
+- u/666
+- 15000 Numbers used to live in a certain location, now that location is a Ghost Town.
+- r/Icebergs
+- Reddit will permanently shut down on December 26, 2021.

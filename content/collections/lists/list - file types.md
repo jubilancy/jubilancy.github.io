@@ -1,0 +1,3 @@
+- domain.cert.pem
+- private.key.pem
+- public.key.pem
