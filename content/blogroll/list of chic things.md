@@ -163,3 +163,77 @@ title: "list of chic things"
 - https://www.thelovelist.wtf/p/the-list-36-things-i-find-impossibly/
 - https://www.thelovelist.wtf/p/the-rise-of-the-edfluencer-the-relatability
 - https://your.substack.com/publish
+
+# more submissions
+- It’s not niche, but I’m always very impressed when women really accessorize—I mean different purses, jewelry, belts, shoes, lipstick for different outfits. I wear the same necklaces everyday, same belts, same lipstick. It’s beyond me to think about pairing multiple different, specific elements simultaneously. The women I know who can do it feel really stylish and chic to me.
+- I love a good tailored pant suit. I think it makes a woman look so powerful and confident. And if you can get one that’s custom made with interesting or unique cuts/designs/patterns/fabrics even better.
+
+- I really like the fortune-teller-ish look with flowy skirts and a million layers of necklaces and bangles and rings on every finger. Unfortunately, I find rings uncomfortable and I ride my bike everywhere, so this look isn’t very practical for me.
+
+- Etiquette and manners. Sending a handwritten thank you card or bringing a gift for the host at a dinner party. The way you behave and carry yourself can do wonders.
+
+- Okay, so this might sound funny, but I love when women wear hats. Like, not everyone can pull off hats, but when they do, it’s like instant chic. It’s such a statement piece without being too overpowering. And you don’t even need some big fancy hat, just one that fits your vibe. Also, rocking vintage jewelry? Yes, please! There’s just something about a unique piece that you know has a story behind it. The same goes for funky brooches, they can make anything pop. Oh, and seeing someone confidently sporting mismatched patterns sometimes just gets me. It’s such a bold move. But the one thing that might seem random but always catches my eye is bright socks with neutral loafers. I can’t explain it, it just works! And have you ever met someone who uses a fountain pen regularly? That’s chic as heck.
+
+- A woman in a man's suit or tux, like Janelle Monae in the Tightrope video.
+
+- I love when women wear overalls. I spent years longing for them, thinking I couldn’t pull them off, and now I have like 5 pairs 😅
+
+- Hats. The world of hats has disappeared outside of Royal Ascot and I think we need to bring back some pretty, dapper hats 🩷
+
+- When women wear analog watches. I am a huge fan/collector of analog watches.
+
+- **witchbaby420**: Women who rock androgynous looks/non-feminine clothes/hairstyles/looks. I could just never because I’d feel so stupid and insecure as I’m a very feminine makeup doll-type, but sometimes it would look comfortable and so nice to do it. But those girls that pulls it off is just 👌🏼
+
+- Bold-framed eye glasses with a slicked back low bun. Bonus points if they are wearing a bold lip as well!
+
+- When some women walk by and they leave this perfect fresh scent. Somewhere between perfume and fresh laundry, bit powdery. Never found such scent in a bottle, but would love to be one of those ladies.
+
+- Silky robe in my opinion.
+
+- women who know how to poise themselves are always so effortlessly classy. i still use the advice julie andrews gives to anne hathaway in princess diaries about crossing my ankles instead of my legs when i sit lol
+
+- I love it when women wear clothes that are not tight fit in the elastic-fabric kind of way. I feel the latter makes the look very Zara high school like. I love both fitted and unfitted clothes, but not those that are in 100% just stretched across the body. 
+
+- Scarves.  Some women have the ability to just put on a scarf and wiggle it around somehow \~poof\~  it looks amazing and makes them look ever so chic.    I do not have that talent...at all.
+
+- Maybe it's basic, but I loveee a neutral tone on tone outfit. Texture and thoughtful jewelry to add interest. My favourite kind of outfit.
+
+- Off the shoulder casual the right way. I don't even know how to explain it but there is good off the shoulder and bad off the shoulder, and when a woman does it "well" I just get sooo 🥰
+
+- Showing off good collar bones tastefully.
+
+- [removed]
+
+- When they wear skirts and colorful clothes for day to day activities. That’s my style, and I love seeing other girls dress with COLOR, print, texture! Too many people go around wearing wrinkled sweatpants or jeans in greys, blacks and blues. I like when people have fun with their clothing even if it’s simply to go to the grocery store.
+
+- Always impresses me when someone is able to pull off oversized and draped silhouettes
+    
+    Loose, flowing garments that fall away from the body, creating silhouettes that are oversized yet intentional
+    
+    Think long, draped coats, wide trousers, and relaxed shirts that obscure the body's shape while emphasizing comfort, movement, and form
+    
+    Asymmetry and unexpected proportions are key, giving the look a quiet, sculptural drama
+
+- Being entirely makeup free and fully confident
+
+- when the ones with really nice/big hair sit their big sunglasses on top of their head. certified baddies and they look so effortlessly cool
+
+- Cool tights I recently came across leopard ones and they look so chic 😫
+
+- I go to a lot of concerts in the metal community, and I LOVE when women go all out with the emo/goth/alternative outfits and accessories, and when they sprinkle some personality in there. This weekend I went to a concert and complimented a woman on her earring. It was homemade and it was a human tooth. When I complimented it she said “thanks, it is her tooth!” And pointed to her friend. I fucking loved that! Yes girl, wear your besties teeth!
+
+- Don't know if that counts but those AMAZING hair of like every black woman and so many kids and also some guys. I love that.
+
+- [removed]
+
+- [removed]
+
+- Tall black leather boots.
+
+- Gracefully twirling a pen in their fingers while on a phone call.
+
+- Fingerless gloves.
+
+- Stereotypically childish things like pigtails, bows, ruffle socks, ultra frilly dresses….
+
+- No makeup + well accessorized + lipstick 🫦
