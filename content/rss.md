@@ -1,0 +1,1 @@
+﻿[![[Valid RSS]](https://www.rssboard.org/rss-validator/images/valid-rss-rogers.png "Validate my RSS feed")](http://www.rssboard.org/rss-validator/check.cgi?url=https%3A//jubilancy.github.io/index.xml)
