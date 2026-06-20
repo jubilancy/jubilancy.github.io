@@ -99,7 +99,78 @@
 ![](https://hayleymulch.neocities.org/images/pin.gif)  
 ![](https://hayleymulch.neocities.org/images/linea.gif)
 
-  
+
+
+  <!-- Post 113 - Manatee -->
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/f/f55b06862dcab6921ef4ec8574c85af5993e4b5f.png" width="88" height="31" alt="leggy ghost">
+
+<!-- Post 114 - Nori-Jammy -->
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/e/e7c05bb8dbccbd38b98c2c57e768fcf0b417336f.gif" width="88" height="31" alt="local alien">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/7/77ab0d7ce381c97b73174b8f4c3178c01298d80c.gif" width="88" height="31" alt="the water calls">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/f/fcaeb37fb86241b8d99e9fd01d1a7565ae485e2d.gif" width="88" height="31" alt="sick in the head">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/7/712686fb9d81a94fa1a81b02af3c006b8c7260a0.gif" width="88" height="31" alt="y'all means all">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/2/2fd8c322cb275dce8b23b2469d6a855ee4ccaf3d.gif" width="88" height="31" alt="when you wish">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/b/b311d75cb00796d74ea506876f3605357f844169.gif" width="88" height="31" alt="email me">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/e/e598eff88bf373bcd3ac7fb30626d6d80fd56a8b.gif" width="88" height="31" alt="drain">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/9/9cf0bc2ec6585cdb4e07489eafee6ed948a2dcec.gif" width="88" height="31" alt="love sick">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/0/061bc23e6584aff858d352f3bea14716206b60ae.gif" width="88" height="31" alt="sing the guestbook">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/8/8c900680ae410d3918d1c88fde591d0cc3c8ff0e.gif" width="88" height="31" alt="magic button">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/d/d5a74ea55eee7f316e4e4877b3e64e9def464fbe.png" width="88" height="31" alt="switch2">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/a/a98f165a9f7a94b5cc36fad7242f9ef00149dce2.png" width="88" height="31" alt="switch">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/0/04dc31709f95d7d235f45d01dbadf1b7e4004b52.png" width="88" height="31" alt="gameboysp">
+
+<!-- Post 115 - crotovane -->
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/4/440d41b6ad3d5b4d7160b9675a5f659103503473.png" width="88" height="31" alt="yakuza theme 88x31">
+
+<!-- Post 116 - Nori-Jammy (spooky batch) -->
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/a/a0a64d3abfd7c1245e60d3bfe7cc3b31f2172165.gif" width="88" height="31" alt="bite">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/2/2e728b41a27bb190cef864899cc25e33f0d79bce.gif" width="88" height="31" alt="the dark">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/4/443ae3d134b2c83c27dea79a84e3a6e1b91ad32a.gif" width="88" height="31" alt="hello">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/c/cd1adaaf94c053200c3d59db32d36de31a700796.gif" width="88" height="31" alt="gorey">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/3/326d4af4a08b748df00101c94f684ae8e253a46b.gif" width="88" height="31" alt="watch out">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/0/06f0174776ab574f18e6fda3f71326b7bf6bdcab.gif" width="88" height="31" alt="email">
+
+<!-- Post 117 - brennan -->
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/4/40fb6746c3b3239b2075b4d1e463e6ae4be3a3c0.gif" width="88" height="31" alt="brennan-day-alt">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/9/99323cf670904716390e9467fc1b8a7eaf7c9934.gif" width="88" height="31" alt="brennan-day">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/8/8d25b00e8aca1199a127853eb01fbbac6df1239c.png" width="88" height="31" alt="metis beadwork button">
+
+<!-- Post 124 - LucaDoodleDoo -->
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/9/93ff0acacad3024e7a898c0a984a0ccacc70d34a.png" width="88" height="31" alt="luca homepage badge">
+
+<!-- Post 125 - Garystu -->
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/f/f127027d3daf87d9d1efdada2ea2e55c19db5756.gif" width="88" height="31" alt="Bup">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/3/3b2d92ed72c89d58f37a9c52426a943e7cdbe6ad.gif" width="88" height="31" alt="Duel">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/f/f10d78ad03bc72b97eba149ff7e419bcbfd1b680.png" width="88" height="31" alt="SupportLBDS">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/c/c1cb1b06c77019d63fa85d7ac06e0d91c5b4d1ec.png" width="88" height="31" alt="DBZ Gayyyy">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/8/8e08ac210bcd355822184d17bd14f0d9c485649a.png" width="88" height="31" alt="Mewtwo Shadow">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/6/6b3f9b9607d24b308e1518dd4d0f04d127613968.png" width="88" height="31" alt="HugeNintendoDS">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/d/da82ed4591433434de75b7057b30a09a454d445a.png" width="88" height="31" alt="Graphics for Ants">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/a/ac17e754798eb9bf41ccf35b08e105c9b98729f1.png" width="88" height="31" alt="GCCX">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/a/a3246ef39fec26487c2dee31ba30f64c7037432d.gif" width="88" height="31" alt="ProChoice">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/0/09801fcc865b5859c98aacf8a0e45f391f9ec7b8.gif" width="88" height="31" alt="ShoppingTrolleys">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/4/49c475e24c7d1ec7feefad23f5fa87a1465055fd.gif" width="88" height="31" alt="protip">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/9/9ca48b48d684b61b3be3913d8c4daa026666d245.png" width="88" height="31" alt="Y Cant Metroid Crawl">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/5/5db5d71486b7b02808b7972b3ae69cf4acc11686.gif" width="88" height="31" alt="TransNow">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/0/02096a81b6db23b6c0e71fe87c7e021a2d8edecc.png" width="88" height="31" alt="Stanton">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/1/112303fbe4513c4f371ba53b9381cdd7fb47ed49.gif" width="88" height="31" alt="shot-web">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/7/7356d10f45d2fe16b25a996c345e909fe01daa3e.gif" width="88" height="31" alt="ouendan x">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/4/480492b4dc8d4a817cb68d7ddb87c9eeece2f84e.gif" width="88" height="31" alt="ouendan n">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/4/4d5b1004869892a7dc1ec0e69ee6a803ad21a01c.png" width="88" height="31" alt="Onceler">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/5/5e641a7d82c7d70e27a60be5406fe3cec117ee8a.png" width="88" height="31" alt="pingas">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/9/950b873fb63b17444c9fea2cdfecb73025bcef9b.gif" width="88" height="31" alt="Last Window Kyle">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/9/958d2f036ed409508edfe4cfcfaaa9a5f68c0fed.png" width="88" height="31" alt="GamerAlert">
+
+<!-- Post 126 - dungeonHack -->
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/4/4acfc4376b6217cb48aca5ae1311cb5fb79f0540.gif" width="88" height="31" alt="dungeonHack button">
+
+<!-- Post 127 - kizolf -->
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/a/a81e8435700ff8053dc0ab063e59e24040929051.png" width="88" height="31" alt="button-postybirb">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/b/b2d9e2bde30f17961d9e5a997b0050a75147676b.png" width="88" height="31" alt="button-timescribe">
+
+<!-- Post 129 - kizolf (own site buttons) -->
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/b/b1241a3da8a8ea809fe65d49c678a49714a451b6.png" width="88" height="31" alt="buttonV3">
+<img src="https://discourse.32bit.cafe/uploads/default/original/2X/6/6222c95a0f0ae378351953fc02f2624f61aef6e9.png" width="88" height="31" alt="buttonV2">
   
 
 
