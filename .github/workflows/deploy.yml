@@ -1,19 +1,16 @@
 name: Deploy Quartz to GitHub Pages
- 
+
 on:
   push:
     branches:
       - v4
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
   group: "pages"
   cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -30,11 +27,16 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate RSS feeds
+        run: python scripts/generate_folder_feeds.py
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
-
   deploy:
     needs: build
     environment:
