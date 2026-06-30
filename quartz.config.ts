@@ -25,18 +25,18 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Victor Mono",
+        header: "JetBrains Mono",
         body: "JetBrains Mono",
         code: "Cascadia Code",
       },
       colors: {
         lightMode: {
-          light: "#FFFFCD",
+          light: "#E6E6E6",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#38761D",
           dark: "#2b2b2b",
-          secondary: "#a50b5e",
+          secondary: "#89618E",
           tertiary: "#288fdb",
           highlight: "#ec5800",
           textHighlight: "#fff23688",
