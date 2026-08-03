@@ -1,5 +1,3 @@
---- {} ---
-
 Art history is **the study of artistic works throughout human history, analyzing their formal qualities, the historical and cultural contexts in which they were created, and their impact on societies**. It encompasses a wide range of fields such as painting, sculpture, architecture, and photography, and can be explored through various approaches including chronological study, analysis of artistic movements like Romanticism and Art Nouveau, and examining specific artists.  
   
 **Key Aspects of Art History**

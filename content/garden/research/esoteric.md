@@ -1,5 +1,3 @@
---- {} ---
-
 # terms
 
 1. **Abraxas**: A mystical Gnostic symbol representing the unity of opposites and the divine source of creation.

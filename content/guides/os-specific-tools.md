@@ -1,5 +1,3 @@
---- {} ---
-
 ## Platform or OS-Specific Tools
 
 - Other Mentioned Apps (For Mac Users)

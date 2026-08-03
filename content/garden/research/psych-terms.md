@@ -1,5 +1,3 @@
---- {} ---
-
 - **research**: A systematic investigation into materials, sources, or phenomena to establish facts, develop new theories, or solve problems.
 - **academic journal**: A periodical publication where scholars present research findings, theoretical articles, and reviews, usually peer-reviewed for quality and credibility.
 - **experimental research**: A research method where variables are manipulated under controlled conditions to determine cause-and-effect relationships.

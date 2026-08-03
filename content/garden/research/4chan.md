@@ -1,5 +1,3 @@
---- {} ---
-
 ### Femoid
 
 - **I love to travel** – Mock phrase for women’s dating profiles, seen as cliché.
