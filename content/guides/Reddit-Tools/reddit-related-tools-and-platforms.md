@@ -1,5 +1,3 @@
---- {} ---
-
 ## Reddit-Related Tools and Platforms
 
 - Reddit Third-Party Tools & Apps (with Cost & Function)
