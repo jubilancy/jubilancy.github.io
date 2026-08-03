@@ -1,0 +1,37 @@
+---
+tags:
+  - lists
+  - music
+  - tools
+---
+1. [404 - Page Not Found](https://greasyfork.org/en/scripts/431168-add-star-rating-buttons-to-list-page)
+2. [404 - Page Not Found](https://greasyfork.org/en/scripts/433390-rym-genre-charts-toolkit)
+3. [API Docs | Last.fm](https://www.last.fm/api/downloads)
+4. [Available Plugins - MusicBrainz Picard](https://picard.musicbrainz.org/plugins/)
+5. [Coloradohusky/ListenBrainz_File_Parser: Parses database files from different music listen tracker applications, and imports them into ListenBrainz](https://github.com/Coloradohusky/ListenBrainz_File_Parser)
+6. [dbeley/rym-userscripts: Some userscripts for rateyourmusic.com and glitchwave.com.](https://github.com/dbeley/rym-userscripts)
+7. [deuill/hugo-module-listenbrainz: A Hugo module for including a 'Now Playing' widget on your site, powered by ListenBrainz - hugo-module-listenbrainz - git.deuill.org](https://git.deuill.org/deuill/hugo-module-listenbrainz)
+8. [dontdrinkandroot - Software for the jilted generation](https://dontdrinkandroot.net/)
+9. [External Resources - MusicBrainz](https://musicbrainz.org/doc/External_Resources#ListenBrainz_tools)
+10. [Guides / Userscripts - MusicBrainz](https://musicbrainz.org/doc/Guides/Userscripts)
+11. [I built a Listenbrainz widget - Jason's blog](https://jasoncrevier.com/listenbrainz-widget/)
+12. [jnguyen1098/awesome-lastfm: A curated list of Last.fm tools and resources](https://github.com/jnguyen1098/awesome-lastfm)
+13. [Labs | Last.fm](https://www.last.fm/labs)
+14. [Last.fm Tags Tools – Nixinova](https://www.nixinova.com/tools/lastfm/tags)
+15. [Last.fm Tools](https://nroutasuo.github.io/lastfm-vis/#tagtimeline)
+16. [List of Last.fm stats and tools sites - 2024 updated : r/lastfm](https://www.reddit.com/r/lastfm/comments/1h8ec76/list_of_lastfm_stats_and_tools_sites_2024_updated/)
+17. [ListenBrainz Enabled Applications - MusicBrainz](https://musicbrainz.org/doc/ListenBrainz_Enabled_Applications)
+18. [MetaBrainz Enabled Research - MusicBrainz](https://musicbrainz.org/doc/MetaBrainz_Enabled_Research)
+19. [Music Platform Bulk Management Tools - Google Gemini](https://gemini.google.com/app/946e8fd01b7cf2fd)
+20. [Music Tools Directory | bijou.fm](https://www.bijou.fm/tools/all)
+21. [MusicBrainz Enabled Applications - MusicBrainz](https://musicbrainz.org/doc/MusicBrainz_Enabled_Applications)
+22. [MusicBrainz Picard](https://picard.musicbrainz.org/)
+23. [musicbrainz: My personal MusicBrainz and ListenBrainz related projects](https://sr.ht/~phw/musicbrainz/)
+24. [New: Flexible import from Text/CSV files - CLZ Music Web - CLZ.com](https://clz.com/music/web/whatsnew/2017/03/14/new-flexible-import-from-textcsv-files-4)
+25. [Open Scrobbler](https://openscrobbler.com/)
+26. [Page not found · GitHub](https://github.com/p-ranav/lastfm-scrobbler)
+27. [Picard Resources - MusicBrainz](https://musicbrainz.org/doc/Picard_Resources)
+28. [Release v-2025-04-23.0 · metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server/releases/tag/v-2025-04-23.0)
+29. [RudeySH/lastfm-bulk-edit: Bulk edit your scrobbles for any artist, album or track on Last.fm at once.](https://github.com/RudeySH/lastfm-bulk-edit)
+30. [sakura/listenbrainz-tracks: show off the track you're currently playing and your previously played tracks on your site! - liminal.cafe: we exist in the spaces between](https://git.liminal.cafe/sakura/listenbrainz-tracks)
+31. [yambs](https://yambs.erat.org/)

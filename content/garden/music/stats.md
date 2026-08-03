@@ -1,5 +1,5 @@
 ---
-title: "music"
+title: stats
 ---
 
 # [info - music stats](https://favoritemusic.guru/)

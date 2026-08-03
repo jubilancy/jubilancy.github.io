@@ -1,0 +1,20 @@
+---
+tags:
+  - wiki
+---
+https://en.wikipedia.org/wiki/Alleged_predictions_of_Nostradamus_in_The_Man_Who_Saw_Tomorrow
+https://en.wikipedia.org/wiki/International_standard_paper_sizes
+https://en.wikipedia.org/wiki/Lists_of_films
+https://en.wikipedia.org/wiki/Little_Birds_(short_story_collection)
+https://en.wikipedia.org/wiki/Steganographia
+https://en.wikipedia.org/wiki/Story_within_a_story
+https://en.wikipedia.org/wiki/Thomas_Kyd
+https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists
+https://en.wikipedia.org/wiki/Wikipedia:List_of_free_online_resources
+https://en.wikipedia.org/wiki/Wikipedia:Articles_for_creation
+https://www.wikidata.org/wiki/Wikidata:Database_reports/List_of_properties/Top100
+https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Story_within_a_story
+https://www.wikidata.org/wiki/Category:Properties_used_on_10000000%2B_items
+https://en.wikipedia.org/wiki/Wikipedia:Syndication
+https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories
+https://en.wikipedia.org/wiki/Bildungsroman

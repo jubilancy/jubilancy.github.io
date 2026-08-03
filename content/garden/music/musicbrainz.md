@@ -1,3 +1,7 @@
+---
+tags:
+  - tools
+---
 # [External Resources](https://musicbrainz.org/doc/External_Resources)
 
 This page has not been reviewed by our documentation team ([more info](https://musicbrainz.org/doc/WikiDocs)).

@@ -1,0 +1,20 @@
+--- {} ---
+
+- **research**: A systematic investigation into materials, sources, or phenomena to establish facts, develop new theories, or solve problems.
+- **academic journal**: A periodical publication where scholars present research findings, theoretical articles, and reviews, usually peer-reviewed for quality and credibility.
+- **experimental research**: A research method where variables are manipulated under controlled conditions to determine cause-and-effect relationships.
+- **psychology**: The scientific study of the mind, brain, and behavior, including thoughts, emotions, development, and social interactions.
+- **peer-reviewed**: A quality control process where other experts in the field evaluate a scholarly article for accuracy, validity, and originality before publication.
+- **descriptive research**: A research method focused on observing, describing, and documenting aspects of a situation as it naturally occurs, without experimental manipulation.
+- **articles**: Written works published in academic journals, magazines, or online platforms that communicate research findings, opinions, or reviews.
+- **Elsevier**: A leading academic publishing company that produces scientific, technical, and medical journals and books, including _The Lancet_ and _Cell_.
+- **personality**: The set of enduring traits, patterns of thought, behavior, and emotion that characterize an individual and influence their interactions.
+- **Zlatan Krizan**: A psychologist and researcher known for work in personality and social psychology, including sleep, conflict, and motivation studies.
+- **Journal of Research in Personality impact factor**: The citation-based metric (impact factor) indicating how frequently articles from _Journal of Research in Personality_ are cited in a given year.
+- **Journal of Research in Personality Scimago**: The SCImago Journal Rank (SJR) indicator for _Journal of Research in Personality_, based on Scopus data to measure its influence and prestige.
+- **Journal of Personality**: A peer-reviewed academic journal publishing research on personality, behavior, and individual differences.
+- **Journal of Research in Personality PDF**: Refers to downloadable PDF versions of research articles published in _Journal of Research in Personality_.
+- **Journal of Research in Personality Abbreviation**: The standard academic shorthand for citation purposes, often _J. Res. Pers._
+- **European Journal of Personality**: A peer-reviewed journal that publishes research on personality processes, assessment, and theory from an international perspective.
+- **Journal of Personality impact factor**: The citation metric indicating the average number of citations per article published in _Journal of Personality_ within a given year.
+- **Journal of Personality and Social Psychology**: A leading peer-reviewed journal published by the American Psychological Association (APA) covering research in social and personality psychology.
