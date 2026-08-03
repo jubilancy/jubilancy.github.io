@@ -180,19 +180,3 @@ User-agent: VelenPublicWebCrawler
 User-agent: Webzio-Extended
 User-agent: YouBot
 Disallow: /
-
-User-agent: *
-Disallow: /*buzzfeed.com*
-Disallow: /*ft.com*
-Disallow: /*forbes.com*
-Disallow: /*hbr.org*
-Disallow: /*hollywoodreporter.com*
-Disallow: /*makeuseof.com*
-Disallow: /*medium.com*
-Disallow: /*nature.com*
-Disallow: /*nytimes.com*
-Disallow: /*outsideonline.com*
-Disallow: /*science.org*
-Disallow: /*wsj.com*
-
-
