@@ -1,5 +1,7 @@
 ---
-title: "library awards"
+title: library awards
+tags:
+  - library
 ---
 
 - [http://www.sitemaps.org/schemas/sitemap/0.9](http://www.sitemaps.org/schemas/sitemap/0.9)

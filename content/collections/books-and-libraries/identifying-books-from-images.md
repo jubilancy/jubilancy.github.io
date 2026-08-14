@@ -1,5 +1,7 @@
 ---
-title: "Identifying Books From Images"
+title: Identifying Books From Images
+tags:
+  - books
 ---
 
 # **A Comprehensive Typological and Bibliographic Analysis of Dual Literary Corpora: Historical Publications and Modern Behavioral Sciences**

@@ -1,9 +1,11 @@
 ---
-source: "https://www.theoi.com/Library.html"
+source: https://www.theoi.com/Library.html
 created: 2026-03-18
 tags:
-  - "new-clippings"
-kind: "obsidian-clipper"
+  - new-clippings
+  - library
+  - webclips
+kind: obsidian-clipper
 ---
 **The Theoi Classical Texts Library** is a collection of translations of works of ancient Greek and Roman literature. The theme of the library is classical mythology and so the selection consists primarily of ancient poetry, drama and prose accounts of myth.
 

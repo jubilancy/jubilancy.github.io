@@ -1,0 +1,53 @@
+---
+tags:
+  - lists
+  - library
+  - books
+  - books-and-libraries
+---
+- https://eliana.bearblog.dev/
+- https://eliana.mataroa.blog/
+- https://links.pagecord.com/
+- https://eliana.pagecord.com/
+- https://basedgirl.neocities.org/
+- https://sr.ht/~eliana/
+- https://account.matrix.org/
+- https://akkoma.dev/user/sign_up
+- https://app.crucialtracks.org/register
+- https://clew.lol/registration
+- https://element.bladerunn.in/
+- https://element.catgirl.cloud/
+- https://flounder.online/register
+- https://freshman.dev/lettercomb
+- https://glue.im/
+- https://humanwords.cc/@Crell@phpc.social
+- https://ichi.city/
+- https://iviv.hu/users/sign_up
+- https://letterbird.co/signup
+- https://logcal.app/
+- https://mataroa.blog/
+- https://neocities.org/
+- https://night-light.cz/account/register
+- https://p057.co/
+- https://pagecord.com/login
+- https://pangaea.social/login
+- https://pixelfed.social/
+- https://registration.matrix.catgirl.cloud/
+- https://roster.pub/users/register
+- https://saidit.net/
+- https://seafoam.space/registration
+- https://sheet.social/
+- https://signup.geocities.ws/
+- https://solo.to/
+- https://supabase.com/dashboard/new/rutejdythkwaywhfwefg
+- https://tangled.org/
+- https://thegistof.me/login
+- https://thoughts.page/
+- https://upload.systems/
+- https://visitriverton.com/
+- https://webri.ng/user/register
+- https://www.metal-archives.com/user/signup
+- https://www.nipht.io/account-confirm
+- https://www.thegistof.me/signup
+- https://www.yourworldoftext.com/
+- https://yourworldoftext.com/

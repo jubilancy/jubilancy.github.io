@@ -1,3 +1,7 @@
+---
+tags:
+  - library
+---
 # [Cataloging Charts and Graphs for Stats on LibraryThing](https://www.librarything.com/stats/etmr/cataloging#lt2_content)
 - [Overview](https://www.librarything.com/stats/etmr/overview)
 - [Books](https://www.librarything.com/stats/etmr/collections#)

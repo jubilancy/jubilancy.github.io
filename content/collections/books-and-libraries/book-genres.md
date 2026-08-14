@@ -1,5 +1,7 @@
 ---
-title: "book genres"
+title: book genres
+tags:
+  - books
 ---
 
 - [art](https://www.goodreads.com/genres/art)

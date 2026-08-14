@@ -1,0 +1,30 @@
+---
+tags:
+  - lists
+  - library
+  - books-and-libraries
+---
+- [Haskins Medal](https://www.librarything.com/award/5908/Haskins-Medal)
+- [Prix national du livre médiéval](https://www.librarything.com/award/7559/Prix-national-du-livre-m%C3%A9di%C3%A9val)
+- [Otto Gründler Book Prize](https://www.librarything.com/award/7455/Otto-Gr%C3%BCndler-Book-Prize)
+- [D. Simon Evans Prize in Medieval Studies](https://www.librarything.com/award/9976/D-Simon-Evans-Prize-in-Medieval-Studies)
+- [Premio historia medieval de Galiza e Portugal](https://www.librarything.com/award/11774/Premio-historia-medieval-de-Galiza-e-Portugal)  
+- [James S. Donnelly, Sr. Prize for Books on History and Social Sciences](https://www.librarything.com/award/7725/James-S-Donnelly-Sr-Prize-for-Books-on-History-and-Social-Sciences)
+- [Thomas Asbridge's top 10 knights in literature](https://www.librarything.com/award/15825/Thomas-Asbridges-top-10-knights-in-literature)
+- [Premio Historia Medieval](https://www.librarything.com/award/11643/Premio-Historia-Medieval)
+- [Medieval Books by Medievalist.net](https://www.librarything.com/award/2050/Medieval-Books-by-Medievalist-net)
+- [John Nicholas Brown Prize](https://www.librarything.com/award/7954/John-Nicholas-Brown-Prize)
+- [Premio Del Rey Prize](https://www.librarything.com/award/7971/Premio-Del-Rey-Prize)
+- [International Center of Medieval Art Book Prize](https://www.librarything.com/award/10648/International-Center-of-Medieval-Art-Book-Prize)
+- [Southeastern Medieval Association (SEMA)](https://www.librarything.com/award/organization/10731/Southeastern-Medieval-Association-SEMA)
+- [Medieval Academy of America (MAA)](https://www.librarything.com/award/organization/1076/Medieval-Academy-of-America-MAA)
+- [Medieval Institute, Western Michigan University](https://www.librarything.com/award/organization/636/Medieval-Institute-Western-Michigan-University)
+- [Medieval and Renaissance Drama Society (MRDS)](https://www.librarything.com/award/organization/9028/Medieval-and-Renaissance-Drama-Society-MRDS)
+- [International Center of Medieval Art (ICMA)](https://www.librarything.com/award/organization/2724/International-Center-of-Medieval-Art-ICMA)
+- [Society for the Medieval Mediterranean (SMM)](https://www.librarything.com/award/organization/10533/Society-for-the-Medieval-Mediterranean-SMM)
+- [Society for Medieval Feminist Scholarship (SMFS)](https://www.librarything.com/award/organization/10746/Society-for-Medieval-Feminist-Scholarship-SMFS)
+- [De Re Militari: the Society for Medieval Military History](https://www.librarything.com/award/organization/2656/De-Re-Militari-the-Society-for-Medieval-Military-History)
+- [International Society for the Study of Medieval Latin Culture (SISMEL)](https://www.librarything.com/award/organization/11662/International-Society-for-the-Study-of-Medieval-Latin-Culture-SISMEL)
+- [Medievalists.net Medieval Book of the Year](https://www.librarything.com/award/18342/Medievalists-net-Medieval-Book-of-the-Year)
+- [Margaret Wade Labarge Prize for Medieval Studies](https://www.librarything.com/award/14889/Margaret-Wade-Labarge-Prize-for-Medieval-Studies)
+- [Southeastern Medieval Association Best First Book Award](https://www.librarything.com/award/18519/Southeastern-Medieval-Association-Best-First-Book-Award)

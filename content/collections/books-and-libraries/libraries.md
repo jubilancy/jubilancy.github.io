@@ -1,5 +1,5 @@
 ---
-title: "Libraries"
+title: Libraries
 date: 2026-04-25
 tags:
   - library
