@@ -1,0 +1,179 @@
+---
+tags:
+  - lists
+  - obsidian
+  - dev-tools
+---
+- [text-xl](text-xl_link): container
+- [Quoth](https://www.obsidianstats.com/plugins/quoth): QUOTH 4 years ago by Eric Rykwalder
+- [Multi-Column Markdown](https://www.obsidianstats.com/plugins/multi-column-markdown): MULTI-COLUMN MARKDOWN 4 years ago by Cameron Robinson A plugin for the Obsidian markdown note application, adding functionality to render markdown documents with multiple columns of text.
+- [Copy as HTML](https://www.obsidianstats.com/plugins/copy-as-html): COPY AS HTML 4 years ago by Bailey Jennings A simple plugin that copies the selected text to your clipboard as HTML
+- [Save as Gist](https://www.obsidianstats.com/plugins/obsidian-save-as-gist): SAVE AS GIST 4 years ago by ghedamat
+- [Excel to Markdown Table](https://www.obsidianstats.com/plugins/obsidian-excel-to-markdown-table): EXCEL TO MARKDOWN TABLE 4 years ago by Ganessh Kumar R P An Obsidian plugin to paste data from Microsoft Excel, Google Sheets, Apple Numbers and LibreOffice Calc as Markdown tables in Obsidian editor.
+- [Marjdown shortcuts](https://www.obsidianstats.com/plugins/markdown-shortcuts): MARJDOWN SHORTCUTS 4 years ago by Jules Guesnon 🪨 Obsidian plugin that allows to write markdown from commands
+- [Creases](https://www.obsidianstats.com/plugins/creases): CREASES 4 years ago by Liam Cain 👕 Tools for effectively folding markdown sections in Obsidian
+- [Quiet Outline](https://www.obsidianstats.com/plugins/obsidian-quiet-outline): QUIET OUTLINE 4 years ago by the_tree Improving experience of outline in Obsidian
+- [Enveloppe](https://www.obsidianstats.com/plugins/obsidian-mkdocs-publisher): ENVELOPPE 4 years ago by Mara-Li Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
+- [Filename Emoji Remover](https://www.obsidianstats.com/plugins/obsidian-filename-emoji-remover): FILENAME EMOJI REMOVER 4 years ago by Yüksel Tolun A simple plugin for the note taking app Obsidian that will rename your files to remove emojis in their names.
+- [ExcaliBrain](https://www.obsidianstats.com/plugins/excalibrain): EXCALIBRAIN 4 years ago by Zsolt Viczian A graph view to navigate your Obsidian vault
+- [Share as Gist](https://www.obsidianstats.com/plugins/obsidian-share-as-gist): SHARE AS GIST 4 years ago by timrogers An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
+- [Obsidian GoLinks](https://www.obsidianstats.com/plugins/obsidian-golinks): OBSIDIAN GOLINKS 4 years ago by David Brownman (@xavdid) Turn go/links into clickable elements in Obsidian
+- [Hard Breaks](https://www.obsidianstats.com/plugins/hard-breaks): HARD BREAKS 4 years ago by Börge Kiss ↩ A plugin for Obsidian that adds functionality to force hard line breaks
+- [Heading Shifter](https://www.obsidianstats.com/plugins/obsidian-heading-shifter): HEADING SHIFTER 4 years ago by kasahala Easily Shift and Change markdown headings.
+- [Blockquote Levels](https://www.obsidianstats.com/plugins/blockquote-levels): BLOCKQUOTE LEVELS 3 years ago by Carlo Zottmann A plugin for Obsidian (https://obsidian.md) that adds commands for increasing/decreasing the blockquote level of the current line or selection(s).
+- [Table Generator](https://www.obsidianstats.com/plugins/obsidian-table-generator): TABLE GENERATOR 3 years ago by Boninall A plugin for generate markdown table quickly like Typora.
+- [More Markdown file suffix (.mdx/.svx)](https://www.obsidianstats.com/plugins/obsidian-markdown-file-suffix): MORE MARKDOWN FILE SUFFIX (.MDX/.SVX) 3 years ago by swissmation.com Use markdown files of additional file suffix as .mdx, .svx in Obsidian
+- [qmd as md](https://www.obsidianstats.com/plugins/qmd-as-md-obsidian): QMD AS MD 3 years ago by Daniel Borek A plugin for Obsidian that enables editing and compiling `qmd` Quarto files.
+- [Awesome Flashcard](https://www.obsidianstats.com/plugins/obsidian-awesome-flashcard): AWESOME FLASHCARD 3 years ago by AwesomeDog Handy Anki integration for Obsidian.
+- [Dirtreeist](https://www.obsidianstats.com/plugins/obsidian-dirtreeist): DIRTREEIST 3 years ago by kasahala Render a directory Structure Diagram from a markdown lists in codeblock.
+- [Obsidian Handlebars Template Plugin](https://www.obsidianstats.com/plugins/obsidian-handlebars): OBSIDIAN HANDLEBARS TEMPLATE PLUGIN 3 years ago by Sean Quinlan This is a plugin for Obsidian adding support for the Handlebars template engine in Obsidian notes
+- [Emo](https://www.obsidianstats.com/plugins/emo-uploader): EMO 3 years ago by yaleiyale Use image/file hosting in Obsidian by clipboard or draging file. Obsidian 图床聚合 & Github上传器
+- [Markdown to Jira Converter](https://www.obsidianstats.com/plugins/obsidian-md-to-jira): MARKDOWN TO JIRA CONVERTER 3 years ago by muckmuck An obsidian.md plugin, which provides a markdown to jira markup converter
+- [Obsidian markdown export](https://www.obsidianstats.com/plugins/obsidian-markdown-export-plugin): OBSIDIAN MARKDOWN EXPORT 3 years ago by bingryan This plugin allows to export directory/single markdown to a folder. support output format(html/markdown/text)
+- [Obsidian Clipper](https://www.obsidianstats.com/plugins/obsidian-clipper): OBSIDIAN CLIPPER 3 years ago by John Christopher Obsidian plugin that allows users to clip parts of a website into their obsidian daily note (or new note)
+- [Image Captions](https://www.obsidianstats.com/plugins/image-captions): IMAGE CAPTIONS 3 years ago by Alan Grainger Add captions to images with inline Markdown and link support. The caption format is compatible with the CommonMark spec and other Markdown applications.
+- [Console Markdown Plugin](https://www.obsidianstats.com/plugins/console): CONSOLE MARKDOWN PLUGIN 3 years ago by Daniel Ellermann An Obsidian plugin which renders console commands and their output.
+- [Advanced Slides](https://www.obsidianstats.com/plugins/obsidian-advanced-slides): ADVANCED SLIDES 3 years ago by MSzturc Create markdown-based reveal.js presentations in Obsidian
+- [Marp](https://www.obsidianstats.com/plugins/marp): MARP 3 years ago by JichouP Plugin to use Marp with Obsidian
+- [O2](https://www.obsidianstats.com/plugins/o2): O2 3 years ago by haril song Converts obsidian markdown syntax to other platforms.
+- [ChatGPT MD](https://www.obsidianstats.com/plugins/chatgpt-md): CHATGPT MD 3 years ago by Bram Adams A (nearly) seamless integration of ChatGPT into Obsidian.
+- [Image Upload Toolkit](https://www.obsidianstats.com/plugins/image-upload-toolkit): IMAGE UPLOAD TOOLKIT 3 years ago by Addo Zhang An obsidian plugin for uploading local images embedded in markdown to remote store and export markdown for publishing to static site.
+- [Avatar](https://www.obsidianstats.com/plugins/avatar): AVATAR 3 years ago by froehlichA An obsidian plugin for displaying an avatar image in front of your notes.
+- [Links](https://www.obsidianstats.com/plugins/links): LINKS 3 years ago by MiiKey manipulate & manage obisidian links
+- [GitHub Issue Augmentation](https://www.obsidianstats.com/plugins/github-issue-augmentation): GITHUB ISSUE AUGMENTATION 3 years ago by samprintz
+- [PubScale](https://www.obsidianstats.com/plugins/pubscale): PUBSCALE 3 years ago by piriwata An obsidian plugin for insert your note into a PlanetScale table
+- [Confluence to Obsidian](https://www.obsidianstats.com/plugins/confluence-to-obsidian): CONFLUENCE TO OBSIDIAN 3 years ago by K import confluence space into obsidian
+- [Recipe Grabber](https://www.obsidianstats.com/plugins/recipe-grabber): RECIPE GRABBER 3 years ago by seethroughdev
+- [File Include](https://www.obsidianstats.com/plugins/file-include): FILE INCLUDE 3 years ago by Till Hoffmann
+- [Markdown Link Space Encoder](https://www.obsidianstats.com/plugins/markdown-link-space-encoder): MARKDOWN LINK SPACE ENCODER 3 years ago by Ron Kosova Obsidian plugin to automatically encode spaces to %20 in Markdown-style links
+- [Markdown Blogger](https://www.obsidianstats.com/plugins/markdown-blogger): MARKDOWN BLOGGER 3 years ago by Alexa Fazio Allows developers to push markdown notes to their local blog, portfolio, or static site. Works with Astro.js, Next.js, and any other framework configured to render markdown pages.
+- [Markdown Tree](https://www.obsidianstats.com/plugins/markdown-tree): MARKDOWN TREE 3 years ago by carvah Introducing a powerful plugin that revolutionizes directory tree creation. With its intuitive Markdown-inspired coding style, this plugin empowers users to effortlessly and swiftly construct intricate directory trees.
+- [Auto Front Matter](https://www.obsidianstats.com/plugins/auto-front-matter): AUTO FRONT MATTER 3 years ago by conorzhong
+- [Markdown Sync Scroll](https://www.obsidianstats.com/plugins/markdown-sync-scroll): MARKDOWN SYNC SCROLL 3 years ago by ProjectXero Synchronize scroll in linked Markdown views.
+- [Markdown to Slack Message](https://www.obsidianstats.com/plugins/markdown-to-slack-message): MARKDOWN TO SLACK MESSAGE 3 years ago by Woongshik Choi
+- [Postfix](https://www.obsidianstats.com/plugins/postfix): POSTFIX 3 years ago by Bhagya Nirmaan Silva (@bhagyas) A postfix plugin for Obsidian
+- [Floccus Bookmarks to Markdown](https://www.obsidianstats.com/plugins/floccus-bookmarks-to-markdown): FLOCCUS BOOKMARKS TO MARKDOWN 3 years ago by mddevils
+- [Sheets Extended](https://www.obsidianstats.com/plugins/sheets): SHEETS EXTENDED 3 years ago by NicoNekoru Plugin that adds features to tables in obsidian including merging, vertical headers, and custom css
+- [GitHub Embeds](https://www.obsidianstats.com/plugins/github-embeds): GITHUB EMBEDS 3 years ago by Gino Valente Embed GitHub issues, PRs, and code snippets directly in Obsidian
+- [Pickly PageBlend](https://www.obsidianstats.com/plugins/pickly-page-blend): PICKLY PAGEBLEND 2 years ago by Dmitrii Mitrichev The easiest way to share your Obsidian notes
+- [Recipe view](https://www.obsidianstats.com/plugins/recipe-view): RECIPE VIEW 2 years ago by lachholden View your Obsidian notes as interactive recipe cards while you cook.
+- [Markdown table checkboxes](https://www.obsidianstats.com/plugins/table-checkboxes): MARKDOWN TABLE CHECKBOXES 2 years ago by DylanGiesberts Obsidian plugin. Allows for the usage of checkboxes inside markdown tables.
+- [MagicCalendar](https://www.obsidianstats.com/plugins/magic-calendar): MAGICCALENDAR 2 years ago by Vaccarini Lorenzo An obsidian plugin that exploit a natural language processing engine to find potential events and sync them with iCalendar
+- [Discord Message Formatter](https://www.obsidianstats.com/plugins/discord-message-formatter): DISCORD MESSAGE FORMATTER 2 years ago by Emile Durkheim Obsidian.md plugin that lets you copy Discord conversations and perfectly formats them to Obsidian Markdown!
+- [Markdown Image Caption](https://www.obsidianstats.com/plugins/md-image-caption): MARKDOWN IMAGE CAPTION 2 years ago by Hananoshika Yomaru Generate image caption easily. Completely markdown-based.
+- [Global Markdown Encryption](https://www.obsidianstats.com/plugins/global-markdown-encrypt): GLOBAL MARKDOWN ENCRYPTION 2 years ago by shlemiel a plugin for encrypting obsidian markdowns in-memory, single password based.
+- [Slackify Note](https://www.obsidianstats.com/plugins/slackify-note): SLACKIFY NOTE 2 years ago by Jeremy Overman
+- [File Cleaner Redux](https://www.obsidianstats.com/plugins/file-cleaner-redux): FILE CLEANER REDUX 2 years ago by husjon A plugin for Obsidian to help clean up files in your vault
+- [Paste Link](https://www.obsidianstats.com/plugins/paste-link): PASTE LINK 2 years ago by Jose Elias Alvarez Intelligently paste Markdown links in Obsidian.
+- [Formatto](https://www.obsidianstats.com/plugins/formatto-format): FORMATTO 2 years ago by Deca Simple, fast, and easy-to-use Obsidian Markdown formatter.
+- [Autocorrect Formatter](https://www.obsidianstats.com/plugins/autocorrect-formatter): AUTOCORRECT FORMATTER 2 years ago by b-yp A plugin running on Obsidian that utilizes autocorrect to format Markdown content.
+- [Highlight Helper](https://www.obsidianstats.com/plugins/highlight-helper): HIGHLIGHT HELPER 2 years ago by Chongmyung Park Helper to collect highlight in Obsidian
+- [Meal Plan](https://www.obsidianstats.com/plugins/tmayoff-meals): MEAL PLAN 2 years ago by Tyler Mayoff A meal plan & recipe manager plugin for Obsidian
+- [Strip Internal Links](https://www.obsidianstats.com/plugins/copy-without-links): STRIP INTERNAL LINKS 2 years ago by Adi Ron A simple Obsidian plugin to strip internal links from files
+- [GitHobs](https://www.obsidianstats.com/plugins/githobs): GITHOBS 2 years ago by GabAlpha and MarcoG Use Obsidian as Github issue editor! A simple plugin to create Github issues directly from Obsidian with logic taken from Git
+- [Reason](https://www.obsidianstats.com/plugins/reason): REASON 2 years ago by Joshua Pham Digest your Obsidian notes
+- [Outline++](https://www.obsidianstats.com/plugins/outline-plus): OUTLINE++ 2 years ago by Ryota Ushio
+- [My Bible](https://www.obsidianstats.com/plugins/gslogimaker-my-bible): MY BIBLE 2 years ago by GsLogimaker Your own customization bible in your personal vault!
+- [Task list](https://www.obsidianstats.com/plugins/task-list): TASK LIST 2 years ago by Ted Marozzi A simple obsidian plugin enabling better task management via lists.
+- [GitHub Sync](https://www.obsidianstats.com/plugins/github-sync): GITHUB SYNC 2 years ago by Kevin Chin Sync Obsidian vault to personal GitHub
+- [GitHub Link](https://www.obsidianstats.com/plugins/github-link): GITHUB LINK 2 years ago by Nathonius
+- [Simple File Push](https://www.obsidianstats.com/plugins/simple-file-push): SIMPLE FILE PUSH 2 years ago by Kim Hudaya Simple file push blog plugin
+- [PDF++](https://www.obsidianstats.com/plugins/pdf-plus): PDF++ 2 years ago by Ryota Ushio PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings.
+- [Quadro](https://www.obsidianstats.com/plugins/quadro): QUADRO 2 years ago by Chris Grieser (aka pseudometa) Obsidian Plugin for social-scientific Qualitative Data Analysis (QDA). An open alternative to MAXQDA and atlas.ti, using Markdown to store data and research codes.
+- [Yesterday](https://www.obsidianstats.com/plugins/yesterday): YESTERDAY 2 years ago by Dominik Mayer Obsidian plugin providing Yesterday journaling support
+- [Cooklang](https://www.obsidianstats.com/plugins/cooklang-viewer-and-editor): COOKLANG 2 years ago by Roger Veciana i Rovira
+- [Gistr](https://www.obsidianstats.com/plugins/gistr): GISTR 2 years ago by Aetherinox Obsidian.md plugin which allows you to use your notes to embed, create, and update gists for Github and Opengist. Light & dark theme support, create / update public & private gists either manually or with autosave.
+- [Fit](https://www.obsidianstats.com/plugins/fit): FIT 2 years ago by joshuakto File gIT (FIT) to sync your files across mobile and desktop devices using GitHub.
+- [Foodiary](https://www.obsidianstats.com/plugins/foodiary): FOODIARY 2 years ago by vkostyanetsky Food tracker plugin for Obsidian
+- [Mehrmaid](https://www.obsidianstats.com/plugins/mehrmaid): MEHRMAID 2 years ago by huterguier Rendering Obsidian Markdown inside Mermaid diagrams.
+- [Slurp](https://www.obsidianstats.com/plugins/slurp): SLURP 2 years ago by inhumantsar Slurps webpages and saves them as clean, uncluttered Markdown. Think Pocket, but better.
+- [Enhanced Copy](https://www.obsidianstats.com/plugins/enhanced-copy): ENHANCED COPY 2 years ago by Mara-Li A obsidian plugin that allows to copy in markdown in reading view or canvas read-only view, creating profile and transform the text during copy.
+- [Slides Extended](https://www.obsidianstats.com/plugins/slides-extended): SLIDES EXTENDED 2 years ago by Erin Schnabel (original: MSzturc) Create markdown-based reveal.js presentations in Obsidian
+- [Github Copilot](https://www.obsidianstats.com/plugins/github-copilot): GITHUB COPILOT 2 years ago by Vasseur Pierre-Adrien A bridge between Obsidian and Github Copilot
+- [ii](https://www.obsidianstats.com/plugins/ii-quicker): II 2 years ago by Wilson The main feature of this plugin is to quickly insert common Markdown code and HTML code, including Sup, Sub, Audio, Video, Iframe, Left-Center-Right Alignment, Variables, Footnotes, Callout, Anchor Points, HTML Comments and so on.
+- [Docxer](https://www.obsidianstats.com/plugins/docxer): DOCXER 2 years ago by Developer-Mike 🚀 Boost your productivity by previewing and converting Word files easily to markdown.
+- [Prettier](https://www.obsidianstats.com/plugins/prettier): PRETTIER 2 years ago by GoodbyeNJN
+- [Sheet Plus](https://www.obsidianstats.com/plugins/sheet-plus): SHEET PLUS 2 years ago by ljcoder obsidian spreadsheets solutions
+- [Interactive Code Blocks](https://www.obsidianstats.com/plugins/interactive-code-blocks): INTERACTIVE CODE BLOCKS 2 years ago by Student Assistenten Team Deeltaken
+- [Spoilers](https://www.obsidianstats.com/plugins/spoilers): SPOILERS 2 years ago by Jacobtread Spoiler blocks for Obsidian
+- [Asciidoc Reader](https://www.obsidianstats.com/plugins/asciidoc-reader): ASCIIDOC READER 2 years ago by voidgrown Obsidian plugin for reading AsciiDoc files
+- [Dataview Serializer](https://www.obsidianstats.com/plugins/dataview-serializer): DATAVIEW SERIALIZER 2 years ago by Sébastien Dubois Obsidian plugin that gives you the power of Dataview, but generates Markdown, making it compatible with Obsidian Publish, and making the links appear on the Graph.
+- [Dataview Publisher](https://www.obsidianstats.com/plugins/dataview-publisher): DATAVIEW PUBLISHER 2 years ago by UD Output markdown from your Dataview queries and keep them up to date. You can also be able to publish them.
+- [AI Chat as Markdown](https://www.obsidianstats.com/plugins/ai-chat-as-md): AI CHAT AS MARKDOWN 2 years ago by Charl P. Botha
+- [Better Markdown Links](https://www.obsidianstats.com/plugins/better-markdown-links): BETTER MARKDOWN LINKS 2 years ago by mnaoumov Obsidian plugin that adds support for angle bracket links and manages relative links properly
+- [Note Linker with Previewer](https://www.obsidianstats.com/plugins/note-linker-with-previewer): NOTE LINKER WITH PREVIEWER 2 years ago by Nick Allison Obsidian Plugin to find and Link notes
+- [Marker PDF to MD](https://www.obsidianstats.com/plugins/marker-api): MARKER PDF TO MD 2 years ago by L3N0X Make use of different AI models to convert your pdfs into markdown with perfect ocr, latex formulas, tables, images and more! Supports Mistral AI OCR (free) and self hosted variants!
+- [Recursive Copy](https://www.obsidianstats.com/plugins/recursive-copy): RECURSIVE COPY 2 years ago by datawitch
+- [Vault to blog](https://www.obsidianstats.com/plugins/vault-to-blog): VAULT TO BLOG 2 years ago by barkstone2 Automation tool of making react SPA blog by obsidian vault.
+- [Markdown prettifier](https://www.obsidianstats.com/plugins/markdown-prettifier): MARKDOWN PRETTIFIER 5 years ago by pelao A markdown prettifier for obsidian
+- [Mind Map](https://www.obsidianstats.com/plugins/obsidian-mind-map): MIND MAP 5 years ago by James Lynch An Obsidian plugin for displaying markdown notes as mind maps using Markmap.
+- [Markdown Formatting Assistant](https://www.obsidianstats.com/plugins/obsidian-markdown-formatting-assistant-plugin): MARKDOWN FORMATTING ASSISTANT 5 years ago by Reocin This Plugin provides a simple WYSIWYG Editor for Markdown and in addition a command line interface. The command line interface facilitate a faster workflow.
+- [Mochi Cards Exporter](https://www.obsidianstats.com/plugins/mochi-cards-exporter): MOCHI CARDS EXPORTER 5 years ago by kalbetre Mochi Cards Exporter Plugin for Obsidian
+- [Extract url content](https://www.obsidianstats.com/plugins/extract-url): EXTRACT URL CONTENT 5 years ago by Stephen Solka Plugin to extract markdown out of urls
+- [Table Extended](https://www.obsidianstats.com/plugins/table-extended): TABLE EXTENDED 5 years ago by AidenLx Extend basic table in Obsidian with MultiMarkdown table syntax
+- [mdx as md](https://www.obsidianstats.com/plugins/mdx-as-md-obsidian): MDX AS MD 5 years ago by Nikolay Kozhukharenko Edit mdx files in Obsidian.md as if they were markdown
+- [Kanban](https://www.obsidianstats.com/plugins/obsidian-kanban): KANBAN 5 years ago by mgmeyers Create markdown-backed Kanban boards in Obsidian.
+- [Markdown Furigana](https://www.obsidianstats.com/plugins/obsidian-markdown-furigana): MARKDOWN FURIGANA 5 years ago by Steven Kraft Simple Markdown to Furigana Rendering Plugin for Obsidian
+- [Gist](https://www.obsidianstats.com/plugins/obsidian-gist): GIST 5 years ago by Jun Lin 📒 Gist View for Obsidian(https://obsidian.md)
+- [Enhancing Mindmap](https://www.obsidianstats.com/plugins/obsidian-enhancing-mindmap): ENHANCING MINDMAP 5 years ago by Mark obsidian plugin editable mindmap,you can edit mindmap on markdown file
+- [Paste Mode](https://www.obsidianstats.com/plugins/obsidian-paste-to-current-indentation): PASTE MODE 5 years ago by Jacob Levernier Obsidian Notes plugin for pasting text and blockquotes to the cursor's current level of indentation.
+- [Markdown Attributes](https://www.obsidianstats.com/plugins/markdown-attributes): MARKDOWN ATTRIBUTES 5 years ago by Jeremy Valentine Add attributes to elements in Obsidian
+- [Linter](https://www.obsidianstats.com/plugins/obsidian-linter): LINTER 5 years ago by Victor Tao An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility.
+- [Emoji Shortcodes](https://www.obsidianstats.com/plugins/emoji-shortcodes): EMOJI SHORTCODES 5 years ago by phibr0 Emoji Shortcodes - Obsidian Plugin | Adds Support for Emoji Shortcodes to Obsidian
+- [ReadItLater](https://www.obsidianstats.com/plugins/obsidian-read-it-later): READITLATER 4 years ago by Dominik Pieper
+- [OzanShare Publish](https://www.obsidianstats.com/plugins/ozanshare-publish): OZANSHARE PUBLISH 4 years ago by Ozan Tellioglu This plugin allows you to publish your markdown notes with a single click directly from your Obsidian vault.
+- [Tweet to Markdown](https://www.obsidianstats.com/plugins/obsidian-tweet-to-markdown): TWEET TO MARKDOWN 4 years ago by kbravh An Obsidian.md plugin to save tweets as Markdown files.
+- [Image Caption](https://www.obsidianstats.com/plugins/obsidian-image-caption): IMAGE CAPTION 4 years ago by bicarlsen Add captions to images in Obsidian.
+- [Copy as LaTeX](https://www.obsidianstats.com/plugins/copy-as-latex): COPY AS LATEX 4 years ago by mo-seph Quick plugin to be able to copy/paste from Obsidian/Markdown into a Latex document
+- [Publish and GitHub URL](https://www.obsidianstats.com/plugins/copy-publish-url): PUBLISH AND GITHUB URL 4 years ago by kometenstaub Copy or open the Obsidian Publish URL of a note. You can also open its Git commit history on GitHub.
+- [CardBoard](https://www.obsidianstats.com/plugins/card-board): CARDBOARD 4 years ago by roovo An Obsidian plugin to make working with tasks a pleasure (hopefully anyway).
+- [CookLang Editor](https://www.obsidianstats.com/plugins/cooklang-obsidian): COOKLANG EDITOR 4 years ago by death_au/cooklang Edit and display Cooklang recipes in Obsidian
+- [Remove HTML Tag](https://www.obsidianstats.com/plugins/remove-html-tag): REMOVE HTML TAG a year ago by ChenPengyuan
+- [Immersive Translate](https://www.obsidianstats.com/plugins/immersive-translate): IMMERSIVE TRANSLATE a year ago by imfenghuang Immersive Translate For Obsidian
+- [Quarto Exporter](https://www.obsidianstats.com/plugins/quarto-exporter): QUARTO EXPORTER a year ago by Andreas Varotsis Export Obsidian notes to Quarto-compatible QMD files.
+- [Copy Section](https://www.obsidianstats.com/plugins/copy-section): COPY SECTION a year ago by skztr Obsidian.md plugin adding a Copy button to the top of Headed sections
+- [Advanced Copy](https://www.obsidianstats.com/plugins/advanced-copy): ADVANCED COPY a year ago by leschuster An Obsidian plugin to copy Markdown and transform it into HTML, Anki, or any custom format. Create custom profiles with versatile templates tailored to your workflow.
+- [Arweave Uploader](https://www.obsidianstats.com/plugins/arweave-uploader): ARWEAVE UPLOADER a year ago by makesimple
+- [Hexo Toolkit](https://www.obsidianstats.com/plugins/hexo-toolkit): HEXO TOOLKIT a year ago by Xiangru An Obsidian plugin for maintaining Hexo posts.
+- [Markdown Timeline](https://www.obsidianstats.com/plugins/markdown-timeline): MARKDOWN TIMELINE a year ago by Jiaheng Zhang An Obsidian plugin to record the events in a Flashback timeline
+- [Markdown Tags](https://www.obsidianstats.com/plugins/markdown-tags): MARKDOWN TAGS a year ago by John Smith III Enhance your Markdown documents with custom tags. Use predefined or custom labels, customizable colors, and arrow indicators to visually track tasks and statuses.
+- [Insta TOC](https://www.obsidianstats.com/plugins/insta-toc): INSTA TOC a year ago by Nick C. Generate, update, and maintain a table of contents for your notes while typing in real time.
+- [Simple Todo](https://www.obsidianstats.com/plugins/simple-todo): SIMPLE TODO a year ago by elliotxx A minimalist text-based todo manager (Text-Based GTD) for efficient task management in Obsidian.
+- [Friday](https://www.obsidianstats.com/plugins/mdfriday): FRIDAY a year ago by sunwei Turn notes to website, in minutes. MDFriday plugin for Obsidian.
+- [Chronos Timeline](https://www.obsidianstats.com/plugins/chronos): CHRONOS TIMELINE a year ago by Claire Froelich Render interactive timelines in your Obsidian notes from simple Markdown.
+- [Embed 3D](https://www.obsidianstats.com/plugins/3d_embeds): EMBED 3D a year ago by Jesse Strijker An Obsidian Plugin for embedding 3D models in your notes. And manipulating the scenes to look the best you want
+- [Cooksync](https://www.obsidianstats.com/plugins/cooksync): COOKSYNC a year ago by Cooksync This is the official Obsidian plugin for Cooksync, maintained by the Cooksync team. It enables automatic import of recipe data from your Cooksync account. Note that this plugin requires a Cooksync account - a paid service that makes it easy to collect recipes from almost any recipe website.
+- [WhatsApp export note](https://www.obsidianstats.com/plugins/whatsapp-export-note): WHATSAPP EXPORT NOTE a year ago by JoaoEmanuell Obsidian plugin to export notes for whatsapp
+- [Callout Copy Buttons](https://www.obsidianstats.com/plugins/callout-copy-buttons): CALLOUT COPY BUTTONS a year ago by Aly Thobani An Obsidian plugin that adds copy buttons to callout blocks in your notes.
+- [Attachments MD Indexer](https://www.obsidianstats.com/plugins/attachments-md-indexer): ATTACHMENTS MD INDEXER a year ago by Ian Inkov Converts Obsidian canvas files to markdown index files, making canvas content searchable and graph-viewable within Obsidian.
+- [Automatic Linker](https://www.obsidianstats.com/plugins/automatic-linker): AUTOMATIC LINKER a year ago by Kodai Nakamura
+- [Extended Markdown Syntax](https://www.obsidianstats.com/plugins/extended-markdown-syntax): EXTENDED MARKDOWN SYNTAX a year ago by Kotaindah55 Extend your Markdown syntax using delimiters instead of HTML tags, such as underlining, superscript, subscript, highlighting, and spoiler.
+- [Title As Link Text](https://www.obsidianstats.com/plugins/title-as-link-text): TITLE AS LINK TEXT a year ago by Lex Toumbourou An Obsidian plugin to set the Link Text using the document title
+- [Chat clips](https://www.obsidianstats.com/plugins/chat-clips): CHAT CLIPS a year ago by sleepingraven Record chat in ordinary markdown list.
+- [Student Repo](https://www.obsidianstats.com/plugins/stu-repo-helper): STUDENT REPO a year ago by Feirong.zfr 学生知识库助手（Student Repository Helper）是一个面向学生或学生家长的Obsidian 插件，这款插件旨在解决学生在学习阶段面临的资料管理难题，将学习过程中产生的各类重要资料，如试卷、笔记、关键文档、绘画手工作品等，进行系统性的数字化整合与管理，并利用 AI 助手定期进行学习分析总结。随着时间的推移，它将助力你逐步搭建起一座专属你自己的知识宝库，这座宝库将伴随你一生，成为你知识成长与积累的见证。
+- [Advanced Progress Bars](https://www.obsidianstats.com/plugins/advanced-progress-bars): ADVANCED PROGRESS BARS a year ago by cactuzhead Obsidian plugin to create custom progress bars
+- [GitHub Gitless Sync](https://www.obsidianstats.com/plugins/github-gitless-sync): GITHUB GITLESS SYNC a year ago by Silvano Cerza Sync a GitHub repository with vaults on different platforms without requiring git installation
+- [Docusaurus Style Admonitions](https://www.obsidianstats.com/plugins/docusaurus-style-admonitions): DOCUSAURUS STYLE ADMONITIONS a year ago by Ralf Weinbrecher Gives Obsidian a Docusaurus compatible Admonitions syntax
+- [Markitdown File Converter](https://www.obsidianstats.com/plugins/markitdown): MARKITDOWN FILE CONVERTER a year ago by Ethan Troy Integrate Microsoft's Markitdown tool to convert various file formats to Markdown for your vault.
+- [PDF Folder to Markdowns](https://www.obsidianstats.com/plugins/pdf-folder-to-markdowns): PDF FOLDER TO MARKDOWNS a year ago by CrisHood Convert a folder of PDFs into a folder of Markdown files with embedded PDFs. This plugin is useful for users who want to migrate their PDF notes from different apps (e.g., Boox) or organize their reference materials inside Obsidian.
+- [GitHub Stars](https://www.obsidianstats.com/plugins/github-stars): GITHUB STARS a year ago by Flying Nobita Display the number of stars next to GitHub repository links in Obsidian.
+- [Open in GitHub](https://www.obsidianstats.com/plugins/open-in-github): OPEN IN GITHUB a year ago by Muurphy Chen This is an Obsidian plugin designed to open project or files directly in GitHub via your browser.
+- [GitHub Tracker](https://www.obsidianstats.com/plugins/github-tracker): GITHUB TRACKER a year ago by schaier-io
+- [WeWrite](https://www.obsidianstats.com/plugins/wewrite): WEWRITE a year ago by Learner Chen Obsidian plugin to render note as WeChat MP article.
+- [Limitless Lifelogs](https://www.obsidianstats.com/plugins/limitless-lifelogs): LIMITLESS LIFELOGS 10 months ago by Maclean Dunkin Sync your Limitless AI lifelog entries directly into Obsidian markdown files.
+- [GitHub Integration](https://www.obsidianstats.com/plugins/github): GITHUB INTEGRATION 10 months ago by Kirill Zhuravlev Plugin that fetch your github stars into notes
+- [Markdown Calendar Generator](https://www.obsidianstats.com/plugins/md-cal-gen): MARKDOWN CALENDAR GENERATOR 8 months ago by Zach Russell An intentionally simple obsidian markdown table calendar generator
+- [Simple Columns](https://www.obsidianstats.com/plugins/simple-columns): SIMPLE COLUMNS 8 months ago by Josie An Obsidian plugin that lets you create easily resizable and customizable columns in your notes.
+- [Github Issues](https://www.obsidianstats.com/plugins/github-issues): GITHUB ISSUES 8 months ago by LonoxX An Obsidian plugin that integrates with GitHub to track issues and pull requests directly in your vault.
+- [GitHub Tasks](https://www.obsidianstats.com/plugins/github-tasks): GITHUB TASKS 6 months ago by Mike Thicke Obsidian plugin to sync GitHub issues and PRs to Obsidian TODOs
+- [Keyboard Formatter](https://www.obsidianstats.com/plugins/keyboard-formatter): KEYBOARD FORMATTER 6 months ago by Lauloque Formats keyboard text (kbd) in your Obsidian notes quickly and consistently.
+- [Note Minimap](https://www.obsidianstats.com/plugins/minimap): NOTE MINIMAP 6 months ago by Yair Segel Add a minimap to your Obsidian notes.
+- [NotePix](https://www.obsidianstats.com/plugins/notepix): NOTEPIX 6 months ago by Ayush Parkara NotePix automatically uploads images, screenshots from your Obsidian vault to a designated GitHub repository. It then seamlessly replaces the local link with a fast URL, keeping your vault lightweight and portable.
+- [Horizontal Blocks](https://www.obsidianstats.com/plugins/horizontal-blocks): HORIZONTAL BLOCKS 5 months ago by iCodeAlchemy Bring Notion-style layouts to Obsidian — with side-by-side, resizable markdown blocks that support full Obsidian syntax including images, embeds, and internal links.
+- [GH Links Shortener](https://www.obsidianstats.com/plugins/gh-links-shortener): GH LINKS SHORTENER 4 months ago by David Barnett Obsidian plugin to set shortened link text for pasted GitHub URLs
+- [Table Checkbox Renderer](https://www.obsidianstats.com/plugins/table-checkbox-renderer): TABLE CHECKBOX RENDERER 3 months ago by Daniel Aguerrevere Interactive checkboxes for Markdown tables in Obsidian. Toggle checkboxes in Reading Mode and instantly update your Markdown file. Supports multiple checkboxes per cell and any table layout.
+- [SlashComplete](https://www.obsidianstats.com/plugins/slash-complete): SLASHCOMPLETE 3 months ago by Spiderpig86 Notion-style Markdown autocompletion for Obsidian.
+- [Pandoc Extended Markdown](https://www.obsidianstats.com/plugins/pandoc-extended-markdown): PANDOC EXTENDED MARKDOWN a month ago by ErrorTzy This plugin enables Obsidian to render Pandoc extended markdown lists, and adds useful sidebar for lists and footnotes
+- : 
+- : 
+- : 

@@ -1,0 +1,15 @@
+---
+tags:
+  - lists
+  - reference-and-language
+---
+- Ad nauseam
+- Ad Hominem
+- Red Herring
+- Straw Man
+- Equivocation
+- Slippery Slope
+- Hasty Generalization
+- Appeal to Authority
+- False Dilemma
+- Bandwagon

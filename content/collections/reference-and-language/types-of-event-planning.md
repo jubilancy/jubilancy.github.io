@@ -1,0 +1,29 @@
+---
+tags:
+  - lists
+  - reference-and-language
+---
+- Coffee
+- Food
+- Drinks
+- Walk
+- Hiking
+- Running
+- Cycling
+- Gym
+- Yoga
+- Swimming
+- Sports
+- Chess
+- Board games
+- Video games
+- Live music
+- Movies
+- Books
+- Study
+- Photography
+- Travel
+- Language exchange
+- Art
+- Dance
+- Other

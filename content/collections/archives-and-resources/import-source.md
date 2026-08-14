@@ -1,0 +1,105 @@
+---
+tags:
+  - lists
+  - archives-and-resources
+---
+- Apple Numbers
+- Asana
+- Box
+- Calendar
+- Coda
+- Contacts
+- CSV file
+- Dropbox
+- Facebook
+- Get started with data from an existing file.
+- Google Drive
+- Google Sheets
+- Jira
+- JSON
+- Microsoft Access
+- Microsoft Excel
+- monday.com
+- Notion
+- Paste table data
+- Smartsheet
+- Trello
+- XML
+- anythingllm
+- chatwise
+- cherry-studio
+- claude-desktop
+- codex
+- cursor
+- goose
+- jetbrains
+- lmstudio
+- msty
+- perplexity
+- raycast
+- vscode
+- warp
+- windsurf
+- apple-notes
+- bear
+- craft
+- evernote
+- google-keep
+- onenote
+- notion
+- roam
+- csv
+- html
+- markdown
+- textbundle
+- zettelkasten
+- apple-journal
+- obsidian
+- notion
+- bear
+- craft
+- apple-notes
+- logseq
+- noteplan
+- agenda
+- API
+- Box
+- Zoom
+- Vimeo
+- Claude
+- Wistia
+- Zapier
+- ChatGPT
+- Dropbox
+- HubSpot
+- YouTube
+- MCP Server
+- Mobile App
+- Google Meet
+- Google Drive
+- Google Calendar
+- Microsoft Teams
+- Outlook Calendar
+- adobecommerce
+- amazon
+- base
+- bigcartel
+- bigcommerce
+- ebay
+- ecwid
+- etsy
+- hostinger
+- magento
+- minuteman-press
+- nuvemshop
+- prestashop
+- shipstation
+- shopify
+- square
+- squarespace
+- storenvy
+- tiktok-shop
+- walmart
+- weebly
+- wix
+- woocommerce

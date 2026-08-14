@@ -1,0 +1,96 @@
+---
+tags:
+  - lists
+  - tools
+  - dev-tools
+---
+# notion templates
+-   [🎨Mood Board](https://www.notion.so/d8a720955f7c4f91b3ba8f16e22b7f11?pvs=21)
+-   [📕Reading List](https://www.notion.so/Reading-List-e4ef4da5bf9c4fb09b62dbc647c68c01?pvs=21)
+-   [📚Ali's Book Notes Template](https://www.notion.so/eafaf53c4b3e41eb9286598d3b8f7813?pvs=21)
+-   [Digital Garden](https://www.notion.so/Digital-Garden-21f5cfb5c19580138242ccd410fd2457?pvs=21)
+-   [✍️Student All-in-One Planner:Learn,Work, Grow, Enjoy](https://www.notion.so/Student-All-in-One-Planner-Learn-Work-Grow-Enjoy-1e55cfb5c195802abe85fa0a5b2c0621?pvs=21)
+-   [Expense Tracker](https://www.notion.so/Expense-Tracker-1e55cfb5c19580d1a41fefa0eda6fa2a?pvs=21)
+-   [AI Creator Tools Atlas](https://www.notion.so/AI-Creator-Tools-Atlas-21f5cfb5c1958082be3be03ca9dca6e2?pvs=21)
+-   [🛗meditations - marcus aurelius](https://www.notion.so/meditations-marcus-aurelius-f52dbf5919ed495cb7a51139f5afc883?pvs=21)
+-   [📄Class of 2026 Summer Investment Banking Internships / Early Insight Programs](https://www.notion.so/Class-of-2026-Summer-Investment-Banking-Internships-Early-Insight-Programs-39a509af77334d179a16cf311acab5f1?pvs=21)
+-   [Password List](https://www.notion.so/Password-List-1e55cfb5c19580df8c77fddde5133e93?pvs=21)
+-   [Notion Link In Bio](https://www.notion.so/Notion-Link-In-Bio-1e55cfb5c195805faaf2fb650295f62d?pvs=21)
+-   [📓journal](https://www.notion.so/28984f0b72014b75940c9e0ccb99ca69?pvs=21)
+-   [💌2025 reset](https://www.notion.so/2025-reset-1e55cfb5c195802eb7d6f631298dc8af?pvs=21)
+-   [Notes](https://www.notion.so/21f5cfb5c19581dab529fb135db2ef7a?pvs=21)
+-   [Notebooks](https://www.notion.so/21f5cfb5c195814d825cec644e94367a?pvs=21)
+-   [Notebooks](https://www.notion.so/1e55cfb5c1958156b930fb254e5b0f73?pvs=21)
+-   [masterlist!](https://www.notion.so/masterlist-2225cfb5c195817485fad1b2a8306799?pvs=21)
+# Notion Tools / Integrations
+-   [Zorbi](https://zorbi.com/)
+-   [Inkle](https://inkle.xyz/)
+-   [Kairo](https://getkairo.com/)
+-   [Joey Team](https://joey.team/)
+-   [Blocs](https://www.blocs.me/)
+-   Notion Automations | Sync Notion with external services
+-   [Notion Forms](https://notionforms.io/)
+-   Data Jumbo
+-   [Notion2Sheets](https://notion2sheets.com/)
+-   [TaskRobin](https://taskrobin.io/) - Save emails to Notion and Airtable
+-   [Chilipepper](https://chilipepper.io/)
+# Widgets / Embeds
+-   Witeboard | Shareable Online Whiteboard
+-   FlipClock
+-   NookOffice Embed
+-   [Potion Widgets](https://widgets.potion.so/)
+-   [Weather Widget](https://weatherwidget.io/)
+-   Aesthetic Pomodoro Timer | Study With Me
+-   Aura Clock
+-   Minimalist Pomodoro Timer
+-   Deep Work Timer
+-   Notion quotes
+-   Notion Quote App
+-   Flocus Flip Clock
+-   Retro Anime Clock
+-   Dictionary Widget
+-   Virtual Cafe | Flocus
+-   [Booked.net Clock Widget](https://www.booked.net/widgets/clock)
+-   Good Widgets
+# Notion-Specific Widgets / Add-ons
+-   [7 Notion Widgets Blog](https://blog.shorouk.dev/2020/06/7-notion-widgets-to-power-up-your-pages/)
+-   [NotionCharts.io](https://notioncharts.io/)
+-   [Anthony Tedja Widgets](https://anthonytedja.github.io/notion/)
+-   [Widgets.so](https://app.widgets.so/)
+-   [Notion2Charts](https://notion2charts.com/)
+-   [Notionlytics](https://notionlytics.com/)
+-   [Notion Quotes](https://notion-quotes.vercel.app/)
+-   [Notion Widgets](https://www.notion-widgets.com/)
+-   Notion Tools & Widgets - Notionland
+-   [NotionCovers.io](https://notioncovers.io/)
+-   Notion Headers (300+ Headers)
+-   [NoChart](https://nochart.co/)
+-   [Custom Blocks](https://getcustomblocks.com/)
+-   [Indify](https://indify.co/)
+-   Notion Headers
+-   Notion simple icons by Ulyio
+-   [Notion VIP Charts](https://www.notion.vip/charts/)
+-   ðŸ“ˆ Notion Charts & Translations
+-   Widgets Combo
+-   Notion Widgets - Notion Avenue
+-   [Butn.one](https://butn.one/)
+-   Notion Widgets | Plus
+-   Spotion
+-   NotionPlus ðŸ’« Notion Widgets
+-   [Widgetbox](https://widgetbox.app/dashboard)
+-   [Aaron WB Notion Widgets](https://aaronwb.com/notion-widgets/)
+# Covers / Aesthetic
+-   10 Cottagecore/Picnic Aesthetic Notion Covers
+-   Notion Headers
+-   10 Cyberpunk Aesthetic Notion Covers
+-   Academic Colourful Notion Page Covers
+-   [Naman Designs (Gumroad)](https://namandesigns.gumroad.com/)
+-   [Gridfiti Shop](https://shop.gridfiti.com/?ref=hcc)
+# Chrome Extensions
+-   [Notion Boost](https://chrome.google.com/webstore/detail/notion-boost/eciepnnimnjaojlkcpdpcgbfkpcagahd?hl=en)
+-   [Notion Web Clipper](https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk?hl=en)
+-   [Save to Notion](https://chrome.google.com/webstore/detail/save-to-notion/ldmmifpegigmeammaeckplhnjbbpccmm?hl=en)
+-   [Notion Enhancer](https://chrome.google.com/webstore/detail/notion-enhancer/dndcmiicjbkfcbpjincpefjkagflbbnl?hl=en)
+# Calendars / Scheduling
+-   [Maylie Calendar](https://maylie.org/calendar)
+-   [Slid.cc](https://www.slid.cc/)

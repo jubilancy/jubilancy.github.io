@@ -1,0 +1,23 @@
+---
+tags:
+  - lists
+  - dev-tools
+---
+# curtesy of RUN YOUR OWN, the wiki documentation of LURK's servers - here are various guides to run your own....md
+- [Category:Backup](https://things.bleu255.com/runyourown/Category:Backup "Category:Backup")
+- [Category:Certificates](https://things.bleu255.com/runyourown/Category:Certificates "Category:Certificates")
+- [Category:Database](https://things.bleu255.com/runyourown/Category:Database "Category:Database")
+- [Category:Email](https://things.bleu255.com/runyourown/Category:Email "Category:Email")
+- [Category:Fediverse](https://things.bleu255.com/runyourown/Category:Fediverse "Category:Fediverse")
+- [Category:Git](https://things.bleu255.com/runyourown/Category:Git "Category:Git")
+- [Category:HBSC](https://things.bleu255.com/runyourown/Category:HBSC "Category:HBSC")
+- [Category:Maintenance](https://things.bleu255.com/runyourown/Category:Maintenance "Category:Maintenance")
+- [Category:Raspberry Pi](https://things.bleu255.com/runyourown/Category:Raspberry_Pi "Category:Raspberry Pi")
+- [Category:Storage](https://things.bleu255.com/runyourown/Category:Storage "Category:Storage")
+- [Category:Streaming](https://things.bleu255.com/runyourown/Category:Streaming "Category:Streaming")
+- [Category:System](https://things.bleu255.com/runyourown/Category:System "Category:System")
+- [Category:VPN](https://things.bleu255.com/runyourown/Category:VPN "Category:VPN")
+- [Category:VoIP](https://things.bleu255.com/runyourown/Category:VoIP "Category:VoIP")
+- [Category:WebDAV](https://things.bleu255.com/runyourown/Category:WebDAV "Category:WebDAV")
+- [Category:Web Application](https://things.bleu255.com/runyourown/Category:Web_Application "Category:Web Application")
+- [Category:Wi-Fi](https://things.bleu255.com/runyourown/Category:Wi-Fi "Category:Wi-Fi")

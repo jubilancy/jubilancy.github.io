@@ -1,0 +1,49 @@
+---
+tags:
+  - apps
+  - lists
+  - listing
+  - dev-tools
+---
+- [Firebase Remote Config](https://firebase.google.com/docs/remote-config?hl=en): Change the behavior and appearance of your app without publishing an app update, at no cost, for unlimited daily active users.
+- [Firestore](https://firebase.google.com/docs/firestore?hl=en): Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud..
+- [Firebase Hosting](https://firebase.google.com/docs/hosting?hl=en): Firebase Hosting provides fast and secure hosting for static and single-page web apps.
+- [Cloud Functions for Firebase](https://firebase.google.com/docs/functions?hl=en): Cloud Functions for Firebase is a serverless framework that lets you automatically run backend code in response to events triggered by Firebase features and HTTPS requests.
+- [Firebase Extensions](https://firebase.google.com/docs/extensions?hl=en): Designed to increase productivity, Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
+- [Firebase Authentication](https://firebase.google.com/docs/auth?hl=en): Firebase Authentication lets you add an end-to-end identity solution to your app for easy user authentication, sign-in, and onboarding in just a few lines of code.
+- [Firebase App Hosting](https://firebase.google.com/docs/app-hosting?hl=en): Firebase App Hosting is a framework that provides serverless hosting for modern, full-stack and AI web apps.
+- [Cloud Storage for Firebase](https://firebase.google.com/docs/storage?hl=en): Cloud Storage for Firebase is a powerful, simple, and cost-effective object storage service built for Google scale.
+- [Firebase App Check](https://firebase.google.com/docs/app-check?hl=en): App Check helps protect your app from abuse by attesting that incoming traffic is coming from your app and blocking traffic without valid credentials.
+- [Firebase Realtime Database](https://firebase.google.com/docs/database?hl=en): Flexible NoSQL realtime database from Firebase.
+- [Firebase AI Logic](https://firebase.google.com/docs/ai-logic?hl=en): Build AI-powered mobile and web apps and features with the Gemini API using Firebase AI Logic
+- [Firebase Performance Monitoring](https://firebase.google.com/docs/perf-mon?hl=en): Firebase Performance Monitoring is a service that developers gain insights into the performance characteristics of Apple, Android, and web apps.
+- [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging?hl=en): Firebase Cloud Messaging (FCM) is a cross-platform messaging solution that lets you reliably send messages at no cost.
+- [Firestore in Native mode](https://docs.cloud.google.com/firestore/native/docs?hl=en): A cloud-hosted NoSQL database that's simple enough for rapid prototyping yet scalable and flexible enough to grow to any size.
+- [Firestore with MongoDB compatibility](https://docs.cloud.google.com/firestore/mongodb-compatibility/docs?hl=en): A cloud-hosted NoSQL database that's simple enough for rapid prototyping yet scalable and flexible enough to grow to any size.
+- [Firebase](https://firebase.google.com/?hl=en): Firebase gives you the tools and infrastructure you need to build better mobile and web apps, improve app quality, and grow your business.
+- [Chrome for Developers](https://developer.chrome.com/?hl=en): Helping you build, grow and innovate on the web.
+- [Chrome Extensions](https://developer.chrome.com/docs/extensions?hl=en): Learn how to develop Chrome extensions.
+- [Blockly Accessibility Overview](https://developers.google.com/blockly/accessibility?hl=en): Blockly's work to support block-based accessible programming for developers, students, and organizations
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools?hl=en): Debug and optimize your web applications with Chrome DevTools.
+- [Blockly](https://developers.google.com/blockly?hl=en): Visual programming editor. Drag and drop blocks to generate executable code. Designed for developers to embed into websites or mobile apps.
+- [Privacy Sandbox](https://privacysandbox.google.com/?hl=en): Privacy-focused APIs and updates for cookies, advertising, identity, personalization, and fraud prevention.
+- [Firestore with MongoDB compatibility](https://cloud.google.com/firestore/mongodb-compatibility/docs?hl=en): A cloud-hosted NoSQL database that's simple enough for rapid prototyping yet scalable and flexible enough to grow to any size.
+- [Firestore in Native mode](https://cloud.google.com/firestore/native/docs?hl=en): A cloud-hosted NoSQL database that's simple enough for rapid prototyping yet scalable and flexible enough to grow to any size.
+- [Ad Manager](https://developers.google.com/ad-manager?hl=en): A set of tools for managing Google Ad Manager inventory, creating orders, pulling reports, monetizing mobile apps, and more.
+- [Google Ads](https://developers.google.com/google-ads?hl=en): Create and manage ads that reach users looking for your products or services on Google Search, Display, YouTube, and more.
+- [YouTube](https://developers.google.com/youtube?hl=en): Integrate YouTube videos and functionality into your website or application.
+- [Google Identity](https://developers.google.com/identity?hl=en): Enable users to sign into apps and authorize apps to use Google services
+- [Authorization](https://developers.google.com/identity/authorization?hl=en): Authorize your app to use Google APIs and data
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools/ai-assistance/quickstart?hl=en): Discover and explore latest news about and use cases for AI assistance in DevTools
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools/ai-assistance?hl=en): Discover and explore latest news about and use cases for AI assistance in DevTools
+- [Blockly Accessibility Fund Recipients](https://developers.google.com/blockly/accessibility-fund-recipients?hl=en): A JavaScript library for building visual programming editors.
+- [Authentication](https://developers.google.com/identity/authentication?hl=en): Sign users into your app using their Google accounts
+- [Blockly Summit 2024](https://developers.google.com/blockly/summits/blockly-summit-2024?hl=en): Discover how developers and educators are using Blockly to advance the future of CS education, along with how Blockly partners are incorporating AI into their programs.
+- [AdSense](https://developers.google.com/adsense?hl=en): Google AdSense provides a free, flexible way to earn money from your websites, mobile sites, and site search results with relevant and engaging ads.
+- [AMP on Google](https://developers.google.com/amp?hl=en): Explore resources to optimize your AMP content to take advantage of Google features, such as Search and ads.
+- [Chrome for Testing: reliable downloads for browser automation](https://developer.chrome.com/blog/chrome-for-testing?hl=en): Chrome for Testing is a new Chrome flavor that specifically targets web app testing and automation use cases.
+- [Firebase Studio](https://studio.firebase.google.com/): Firebase Studio is a cloud-based agentic development environment for prototyping, building, and running full-stack AI apps.
+- [Flutter](https://flutter.dev/): Craft high-quality native interfaces on iOS and Android with this open source, mobile UI framework.
+- [Dart](https://dart.dev/): An open source programming language for creating highly optimized mobile and web apps.
+- [Angular](https://angular.dev/): A modern web development platform with fully integrated tools and a focus on maintainability and collaboration that helps your code reach further.
+- [Chromium](https://www.chromium.org/chromium-projects/): An open source browser project that aims to build a safer, faster, and more stable way for all internet users to experience the web.

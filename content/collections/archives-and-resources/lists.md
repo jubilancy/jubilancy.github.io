@@ -1,0 +1,79 @@
+---
+favorite: yes
+tags:
+  - lists
+  - archives-and-resources
+---
+# list-microsoft apps
+- AI Apps and Agents
+- AIAgents
+- Analytics
+- Blockchain
+- Browse by categories
+- CategoryAIMachineLearning
+- Collaboration
+- Commerce
+- Compliance & Legal
+- Compute
+- Customer Service
+- Databases
+- Developer Tools
+- DeveloperTool
+- Devops
+- DevOps
+- Explore categories to find the right app for your unique business needs.
+- Finance
+- Geolocation
+- Human Resources
+- Identity
+- Infrastructure Services
+- Integration
+- Internet of Things
+- IT & Management Tools
+- Machine Learning
+- Marketing
+- Media
+- Microsoft Entra ID
+- MicrosoftEntraId
+- Migration
+- Mixed Reality
+- MixReality
+- Monitoring & Diagnostics
+- MonitoringAndDiagnostics
+- Operations & Supply Chain
+- Productivity
+- Project Management
+- Sales
+- Security
+- Web
+
+# Gravatar For Developers
+- bluesky
+- wordpress
+- threads
+- linkedin
+- facebook
+- youtube
+- twitter
+- tiktok
+- flickr
+- tumblr
+- mastodon
+- github
+- twitch
+- fediverse
+- stackoverflow
+- calendly
+- vimeo
+- tripit
+- foursquare
+- goodreads
+- patreonservice
+- pinterest
+- reddit
+- ebay
+- dribbble
+- gitlab
+- spotify
+- strava
+- telegram

@@ -1,0 +1,28 @@
+---
+tags:
+  - lists
+  - dev-tools
+---
+1. [Bitly](https://webcatalog.io/en/apps/bitly)[Bitly is a URL shortening and link management platform that simplifies link sharing, offers analytics, and supports branded links and QR codes for users and marketers.](https://webcatalog.io/en/apps/bitly)
+2. [Bandzoogle](https://webcatalog.io/en/apps/bandzoogle)[Bandzoogle helps musicians create websites to promote their music, sell tickets and merchandise, manage mailing lists, and track fan engagement.](https://webcatalog.io/en/apps/bandzoogle)
+3. [Linkfire](https://webcatalog.io/en/apps/linkfire)[Linkfire is a platform for artists to create smart links that consolidate multiple online content into one page, enhancing fan engagement and discoverability.](https://webcatalog.io/en/apps/linkfire)
+4. [Linkr](https://webcatalog.io/en/apps/linkr)[Linkr is a link-in-bio tool that allows users to create a personalized landing page to share multiple links and manage their online presence.](https://webcatalog.io/en/apps/linkr)
+5. [Flowcode](https://webcatalog.io/en/apps/flowcode)[Flowcode is a QR code generator for businesses that enables data collection and engagement tracking to optimize marketing efforts.](https://webcatalog.io/en/apps/flowcode)
+6. [ToneDen](https://webcatalog.io/en/apps/toneden)[ToneDen is a social marketing platform that helps music artists and promoters manage campaigns and engage audiences across social media.](https://webcatalog.io/en/apps/toneden)
+7. [Digital Link](https://webcatalog.io/en/apps/digital-link)[Digital Link allows users to create and manage GS1 digital link QR codes, enabling online product presence and simplifying compliance while enhancing shopper engagement.](https://webcatalog.io/en/apps/digital-link)
+8. [Soundplate Clicks](https://webcatalog.io/en/apps/soundplate-clicks)[Soundplate Clicks creates smart links for music marketing, integrating music, social media, and events into one platform to enhance fan engagement and streamline promotion.](https://webcatalog.io/en/apps/soundplate-clicks)
+9. [TLinky](https://webcatalog.io/en/apps/tlinky)[TLinky is a link management app that allows users to create short links, generate QR codes, and track link performance for digital marketing efforts.](https://webcatalog.io/en/apps/tlinky)
+10. [Amplify](https://webcatalog.io/en/apps/amplify)[Amplify.link helps artists and creators market their work, connect with fans, and earn money through customizable smart link pages and analytics.](https://webcatalog.io/en/apps/amplify)
+11. [1LINK.IO](https://webcatalog.io/en/apps/1link-io)[1LINK.IO streamlines link management, enabling deep linking and custom URL schemes for better navigation between apps and web content.](https://webcatalog.io/en/apps/1link-io)
+12. [Social Unicorn](https://webcatalog.io/en/apps/social-unicorn)[Social Unicorn automates social media posting by scheduling and mixing user-provided content like blog posts and quotes for consistent updates on LinkedIn and Twitter.](https://webcatalog.io/en/apps/social-unicorn)
+13. [BL.INK](https://webcatalog.io/en/apps/bl-ink)[BL.INK is a link shortening platform that allows users to create and manage custom links and QR codes, track performance, and integrate with existing tools.](https://webcatalog.io/en/apps/bl-ink)
+14. [Smartlinks.ai](https://webcatalog.io/en/apps/smartlinks-ai)[Smartlinks.ai is an SEO tool that simplifies off-page link building by connecting users with a community of marketers for content collaborations.](https://webcatalog.io/en/apps/smartlinks-ai)
+15. [JoyQR](https://webcatalog.io/en/apps/joyqr)[JoyQR allows users to create custom QR codes and link-in-bio pages, providing analytics to optimize audience engagement and enhance marketing strategies.](https://webcatalog.io/en/apps/joyqr)
+16. [Autonix](https://webcatalog.io/en/apps/autonix)[Autonix is a QR code generator and visitor management system that allows businesses to track visit activity and customize check-in methods.](https://webcatalog.io/en/apps/autonix)
+17. [Tapbiolink](https://webcatalog.io/en/apps/tapbiolink)[Tapbiolink is a link in bio maker that creates customizable landing pages to consolidate various social media and website links in one place.](https://webcatalog.io/en/apps/tapbiolink)
+18. [Limey](https://webcatalog.io/en/apps/limey)[Limey allows users to quickly create one-page websites, engage with visitors, and capture leads for export.](https://webcatalog.io/en/apps/limey)
+19. [YAPA.page](https://webcatalog.io/en/apps/yapa-page)[YAPA.page is a user-friendly app for creating customizable pages for social networks and messengers, featuring templates, analytics support, and online store capabilities.](https://webcatalog.io/en/apps/yapa-page)
+20. [Uniqode](https://webcatalog.io/en/apps/uniqode)[Uniqode is a QR code and digital business card platform that helps businesses manage QR initiatives, track analytics, and integrate with marketing tools.](https://webcatalog.io/en/apps/uniqode)
+21. [geno.link](https://webcatalog.io/en/apps/geno-link)[Geno.link is a platform for digital creators and entrepreneurs to share, sell, and showcase their content online without needing a complex website.](https://webcatalog.io/en/apps/geno-link)
+22. [Veshort](https://webcatalog.io/en/apps/veshort)[Veshort is a URL shortener that provides marketing tools to help users efficiently manage their marketing campaigns.](https://webcatalog.io/en/apps/veshort)
+23. [CampaignTrackly](https://webcatalog.io/en/apps/campaigntrackly)[CampaignTrackly automates UTM link creation for marketers, improving data accuracy and streamlining campaign tracking across various platforms.](https://webcatalog.io/en/apps/campaigntrackly)
