@@ -5,26 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-    Component.Pager(),
-    Component.ConditionalRender({
-      component: Component.RecentNotes({
-        title: "recently tended",
-        limit: 6,
-        showTags: false,
-        filter: (f, page) => {
-          const folder = page.slug!.slice(0, -"index".length)
-          return f.slug!.startsWith(folder) && !f.slug!.endsWith("/index")
-        },
-      }),
-      condition: (page) =>
-        page.fileData.slug!.endsWith("/index") && !page.fileData.slug!.startsWith("tags/"),
-    }),
-    Component.ConditionalRender({
-      component: Component.RecentNotes({ title: "recently tended", limit: 6 }),
-      condition: (page) => page.fileData.slug === "index",
-    }),
-  ],
+  afterBody: [Component.Pager()],
   footer: Component.Footer({
     links: {
       github: "https://github.com/jubilancy/jubilancy.github.io",

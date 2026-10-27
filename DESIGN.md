@@ -95,7 +95,7 @@ elevation: color-blocking
 - **Masthead (left rail):** site title in italic serif, mono explorer beneath, hairline right border.
 - **Article header:** mono breadcrumb, large italic title, mono meta line (date · reading time), tags as outlined chips.
 - **Right margin:** TOC, then backlinks; each headed by a mono uppercase label.
-- **Home:** recent notes list after the intro.
+- **Home:** intro only.
 
 ## Performance
 

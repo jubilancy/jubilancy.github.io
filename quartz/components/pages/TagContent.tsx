@@ -48,63 +48,25 @@ export default ((opts?: Partial<TagContentOptions>) => {
           allFiles.flatMap((data) => data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes),
         ),
       ].sort((a, b) => a.localeCompare(b))
-      const tagItemMap: Map<string, QuartzPluginData[]> = new Map()
-      for (const tag of tags) {
-        tagItemMap.set(tag, allPagesWithTag(tag))
-      }
       return (
         <div class="popover-hint">
           <article class={classes}>
             <p>{content}</p>
           </article>
           <p>{i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length })}</p>
-          <div>
-            {tags.map((tag) => {
-              const pages = tagItemMap.get(tag)!
-              const listProps = {
-                ...props,
-                allFiles: pages,
-              }
-
-              const contentPage = allFiles.filter((file) => file.slug === `tags/${tag}`).at(0)
-
-              const root = contentPage?.htmlAst
-              const content =
-                !root || root?.children.length === 0
-                  ? contentPage?.description
-                  : htmlToJsx(contentPage.filePath!, root)
-
-              const tagListingPage = `/tags/${tag}` as FullSlug
-              const href = resolveRelative(fileData.slug!, tagListingPage)
-
-              return (
-                <div>
-                  <h2>
-                    <a class="internal tag-link" href={href}>
-                      {tag}
-                    </a>
-                  </h2>
-                  {content && <p>{content}</p>}
-                  <div class="page-listing">
-                    <p>
-                      {i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}
-                      {pages.length > options.numPages && (
-                        <>
-                          {" "}
-                          <span>
-                            {i18n(cfg.locale).pages.tagContent.showingFirst({
-                              count: options.numPages,
-                            })}
-                          </span>
-                        </>
-                      )}
-                    </p>
-                    <PageList limit={options.numPages} {...listProps} sort={options?.sort} />
-                  </div>
-                </div>
-              )
-            })}
-          </div>
+          <ul class="tag-index">
+            {tags.map((tag) => (
+              <li>
+                <a
+                  class="internal tag-link"
+                  href={resolveRelative(fileData.slug!, `/tags/${tag}` as FullSlug)}
+                >
+                  {tag}
+                </a>
+                <span class="count">{allPagesWithTag(tag).length}</span>
+              </li>
+            ))}
+          </ul>
         </div>
       )
     } else {

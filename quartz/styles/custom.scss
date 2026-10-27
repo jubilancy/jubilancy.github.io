@@ -35,6 +35,12 @@ $mono: var(--codeFont);
   font-display: swap;
 }
 @font-face {
+  font-family: "Source Code Pro";
+  src: url("/static/fonts/source-code-pro/SourceCodePro-latin.woff2") format("woff2");
+  font-weight: 200 900;
+  font-display: swap;
+}
+@font-face {
   font-family: "UnifrakturMaguntia";
   src: url("/static/fonts/unifraktur-maguntia/UnifrakturMaguntia-latin.woff2") format("woff2");
   font-display: swap;
@@ -149,12 +155,12 @@ footer,
 
 .tags .tag-link,
 a.internal.tag-link {
-  font-family: $mono;
+  font-family: "Source Code Pro", $mono;
   font-size: 0.72rem;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.02em;
   padding: 0.1rem 0.55rem;
   border: 1px solid var(--lightgray);
-  border-radius: 999px;
+  border-radius: 0;
   background: transparent;
   color: var(--secondary);
   &:hover { border-color: var(--tertiary); color: var(--tertiary); }
@@ -277,5 +283,21 @@ ul.section-ul li.section-li > .section {
 
   .meta {
     white-space: nowrap;
+  }
+}
+
+// tags index: just the tags, with note counts
+ul.tag-index {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  padding: 0;
+
+  .count {
+    margin-left: 0.4rem;
+    font-family: "Source Code Pro", $mono;
+    font-size: 0.68rem;
+    color: var(--gray);
   }
 }
