@@ -8,6 +8,19 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.Pager(),
     Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "recently tended",
+        limit: 6,
+        showTags: false,
+        filter: (f, page) => {
+          const folder = page.slug!.slice(0, -"index".length)
+          return f.slug!.startsWith(folder) && !f.slug!.endsWith("/index")
+        },
+      }),
+      condition: (page) =>
+        page.fileData.slug!.endsWith("/index") && !page.fileData.slug!.startsWith("tags/"),
+    }),
+    Component.ConditionalRender({
       component: Component.RecentNotes({ title: "recently tended", limit: 6 }),
       condition: (page) => page.fileData.slug === "index",
     }),

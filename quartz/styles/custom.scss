@@ -5,13 +5,47 @@
 
 $mono: var(--codeFont);
 
+// ── self-hosted fonts (licenses sit next to the files in quartz/static/fonts) ──
+@font-face {
+  font-family: "Luxi Mono";
+  src: url("/static/fonts/luxi-mono/luximr.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Luxi Mono";
+  src: url("/static/fonts/luxi-mono/luximb.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Luxi Mono";
+  src: url("/static/fonts/luxi-mono/luximri.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Luxi Mono";
+  src: url("/static/fonts/luxi-mono/luximbi.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UnifrakturMaguntia";
+  src: url("/static/fonts/unifraktur-maguntia/UnifrakturMaguntia-latin.woff2") format("woff2");
+  font-display: swap;
+}
+
 html {
-  font-size: 17px;
+  font-size: 16px;
 }
 
 body {
-  font-feature-settings: "onum", "liga";
-  line-height: 1.65;
+  line-height: 1.7;
 }
 
 // ── headings: italic serif ──────────────────────────────────────────
@@ -190,4 +224,58 @@ a.external::after {
   opacity: 0.6;
   text-decoration: none;
   display: inline-block;
+}
+
+// ── illuminated initial and small-caps opening on long notes ─────────
+article.long-note > p:first-of-type {
+  &::first-line {
+    font-variant: small-caps;
+    letter-spacing: 0.05em;
+  }
+
+  &::first-letter {
+    float: left;
+    font-family: "UnifrakturMaguntia", var(--headerFont), serif;
+    font-size: 4.2em;
+    line-height: 0.85;
+    margin: 0.08em 0.6rem 0 0;
+    padding: 0.08em 0.16em 0.02em;
+    color: #9e2b1b; // vermilion
+    background: linear-gradient(135deg, #ecd48a 0%, #c9a24a 55%, #e6cc7f 100%); // gold leaf
+    border: 4px double #8a6a1f;
+    text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.35);
+  }
+}
+
+// ── note stage chip and random-note link ─────────────────────────────
+.stage {
+  display: inline-block;
+  margin-left: 0.5rem;
+  padding: 0 0.5rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  font-family: $mono;
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  line-height: 1.5;
+  color: var(--gray);
+
+  &.stage-rubricated {
+    color: var(--tertiary);
+    border-color: var(--tertiary);
+  }
+  &.stage-illuminated {
+    color: var(--secondary);
+    border-color: var(--secondary);
+  }
+}
+
+// monospace dates plus a stage chip need more room than the default 8em column
+ul.section-ul li.section-li > .section {
+  grid-template-columns: fit-content(20em) 3fr 1fr;
+
+  .meta {
+    white-space: nowrap;
+  }
 }

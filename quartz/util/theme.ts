@@ -21,6 +21,10 @@ export type FontSpecification =
       name: string
       weights?: number[]
       includeItalic?: boolean
+      /** self-hosted via @font-face; not requested from Google Fonts */
+      local?: boolean
+      /** use a monospace fallback stack instead of sans-serif */
+      monospace?: boolean
     }
 
 export interface Theme {
@@ -85,13 +89,25 @@ function formatFontSpecification(
   return spec.name
 }
 
+const isLocal = (spec: FontSpecification) => typeof spec !== "string" && spec.local === true
+
 export function googleFontHref(theme: Theme) {
   const { header, body, code } = theme.typography
-  const headerFont = formatFontSpecification("header", header)
-  const bodyFont = formatFontSpecification("body", body)
-  const codeFont = formatFontSpecification("code", code)
+  const families = (
+    [
+      ["header", header],
+      ["body", body],
+      ["code", code],
+    ] as const
+  )
+    .filter(([, spec]) => !isLocal(spec))
+    .map(([type, spec]) => `family=${formatFontSpecification(type, spec)}`)
 
-  return `https://fonts.googleapis.com/css2?family=${headerFont}&family=${bodyFont}&family=${codeFont}&display=swap`
+  return `https://fonts.googleapis.com/css2?${families.join("&")}&display=swap`
+}
+
+function fallbackFor(spec: FontSpecification, sans: string) {
+  return typeof spec !== "string" && spec.monospace ? DEFAULT_MONO : sans
 }
 
 export function googleFontSubsetHref(theme: Theme, text: string) {
@@ -157,7 +173,7 @@ ${stylesheet.join("\n\n")}
 
   --titleFont: "${getFontSpecificationName(theme.typography.title || theme.typography.header)}", ${DEFAULT_SANS_SERIF};
   --headerFont: "${getFontSpecificationName(theme.typography.header)}", ${DEFAULT_SANS_SERIF};
-  --bodyFont: "${getFontSpecificationName(theme.typography.body)}", ${DEFAULT_SANS_SERIF};
+  --bodyFont: "${getFontSpecificationName(theme.typography.body)}", ${fallbackFor(theme.typography.body, DEFAULT_SANS_SERIF)};
   --codeFont: "${getFontSpecificationName(theme.typography.code)}", ${DEFAULT_MONO};
 }
 

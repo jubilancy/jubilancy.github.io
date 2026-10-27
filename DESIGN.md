@@ -41,16 +41,16 @@ typography:
     fontWeight: 500
     letterSpacing: -0.01em
   body:
-    fontFamily: "Newsreader"
-    fontSize: 18px
-    lineHeight: 1.65
+    fontFamily: "Luxi Mono"
+    fontSize: 16px
+    lineHeight: 1.7
   label:
-    fontFamily: "JetBrains Mono"
+    fontFamily: "Luxi Mono"
     fontSize: 11px
     letterSpacing: 0.08em
     textTransform: uppercase
   code:
-    fontFamily: "JetBrains Mono"
+    fontFamily: "Luxi Mono"
     fontSize: 13px
     lineHeight: 1.7
 rounded:
@@ -73,7 +73,7 @@ elevation: color-blocking
 ## Principles
 
 - **Paper first.** The page is cream stock; surfaces are slightly darker paper, never white cards with shadows.
-- **Serif to read, mono to navigate.** Newsreader carries prose and headings; JetBrains Mono carries metadata, breadcrumbs, tags, the explorer, and code.
+- **Mono to read, serif to title.** Luxi Mono (self-hosted) carries body text, metadata, navigation and code; Newsreader italic carries headings.
 - **Marginalia.** Table of contents and backlinks live in the right margin like notes in a book.
 - **Ink, not fills.** Links are green ink with an underline; hover shifts to terracotta. Highlight fills are reserved for `==marks==`.
 - **Hairlines.** 1px rules separate regions; radius is 0 for structure, 4–8px for tags and code.
@@ -103,3 +103,10 @@ elevation: color-blocking
 - **Search index excerpts.** `static/contentIndex.json` keeps the first 1,500 characters of each note and no link lists (`searchExcerptLength` in the ContentIndex plugin).
 - **Page weight budget.** Notes heavier than `pageWeightBudget` (2,500 in `quartz.config.ts`) are split at build time into `note`, `note-page-2`, … with a pager. Weight is 1 per element, +2 per link, +1 per 30 characters of text. Parts break at headings when possible, and long lists, tables and paragraphs are cut between items.
 - **External-link marker in CSS.** The per-link inline SVG is off; `a.external::after` draws the arrow.
+
+## Details
+
+- **Illuminated initial.** Notes of 600+ words get a gold-leaf square with a vermilion UnifrakturMaguntia capital and small-caps opening line (`article.long-note` in `custom.scss`, class set in `pages/Content.tsx`).
+- **Stages.** `stage: inked | rubricated | illuminated` in frontmatter shows a mono chip next to the date; words live in `quartz/util/stages.ts`.
+- **Fonts are self-hosted** in `quartz/static/fonts/` with their licenses (Luxi Mono: Bigelow & Holmes Luxi License, unmodified files; UnifrakturMaguntia: SIL OFL). Only Newsreader comes from Google Fonts.
+- **No link previews.** Popovers are off.

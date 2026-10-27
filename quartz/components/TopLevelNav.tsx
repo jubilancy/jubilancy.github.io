@@ -1,6 +1,8 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { FullSlug, resolveRelative, simplifySlug } from "../util/path"
 import { classNames } from "../util/lang"
+// @ts-ignore
+import script from "./scripts/randomNote.inline"
 
 interface Options {
   title: string
@@ -76,6 +78,9 @@ export default ((userOpts?: Partial<Options>) => {
             </li>
           ))}
         </ul>
+        <a class="random-note" href={resolveRelative(fileData.slug!, "index" as FullSlug)}>
+          random note ⚄
+        </a>
       </nav>
     )
   }
@@ -87,7 +92,9 @@ export default ((userOpts?: Partial<Options>) => {
 .top-nav li { display: flex; justify-content: space-between; align-items: baseline; gap: 0.5rem; line-height: 2; }
 .top-nav a { text-decoration: none; font-weight: 400; color: var(--darkgray); }
 .top-nav li.active a, .top-nav a:hover { color: var(--tertiary); }
+.top-nav .random-note { display: inline-block; margin-top: 0.8rem; font-size: 0.8rem; color: var(--secondary); }
 .top-nav .count { font-size: 0.7rem; color: var(--gray); }
 `
+  TopLevelNav.afterDOMLoaded = script
   return TopLevelNav
 }) satisfies QuartzComponentConstructor

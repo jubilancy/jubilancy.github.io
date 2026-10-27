@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "the commonplace notebook for eliana",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     pageWeightBudget: 2500,
     analytics: {
       provider: 'umami',
@@ -27,8 +27,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: { name: "Newsreader", weights: [400, 500, 600], includeItalic: true },
-        body: "Newsreader",
-        code: "JetBrains Mono",
+        body: { name: "Luxi Mono", local: true, monospace: true },
+        code: { name: "Luxi Mono", local: true, monospace: true },
       },
       colors: {
         lightMode: {
