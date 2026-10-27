@@ -1,6 +1,176 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
-// put your custom CSS here!
-h1, h2, h3, h4, h5, h6 {
-  font-style: italic;
+// Commonplace Garden — see DESIGN.md at the repo root.
+
+$mono: var(--codeFont);
+
+html {
+  font-size: 17px;
 }
+
+body {
+  font-feature-settings: "onum", "liga";
+  line-height: 1.65;
+}
+
+// ── headings: italic serif ──────────────────────────────────────────
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--headerFont);
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  color: var(--dark);
+}
+article > h1 { font-size: 2.6rem; line-height: 1.1; }
+h2 { font-size: 1.6rem; }
+h3 { font-size: 1.3rem; }
+
+// ── links: ink + underline, no fills ────────────────────────────────
+a {
+  font-weight: 500;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  text-decoration-color: color-mix(in srgb, var(--secondary) 40%, transparent);
+
+  &:hover {
+    color: var(--tertiary);
+    text-decoration-color: var(--tertiary);
+  }
+
+  &.internal {
+    background-color: transparent;
+    padding: 0;
+    border-radius: 0;
+    &.tag-link { text-decoration: none; }
+  }
+}
+
+// ── mono marginalia ─────────────────────────────────────────────────
+.breadcrumb-container,
+.content-meta,
+.explorer,
+.toc,
+.backlinks,
+.graph,
+.recent-notes,
+footer,
+.tags {
+  font-family: $mono;
+}
+
+.breadcrumb-container,
+.content-meta,
+footer,
+.page-title + * ,
+.toc > button,
+.backlinks > h3,
+.graph > h3,
+.recent-notes > h3,
+.explorer > button {
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gray);
+}
+
+.backlinks > h3,
+.graph > h3,
+.recent-notes > h3 {
+  font-style: normal;
+  font-family: $mono;
+  font-weight: 500;
+  margin: 0 0 0.6rem;
+}
+
+// ── left rail: masthead ─────────────────────────────────────────────
+.page > #quartz-body .sidebar.left {
+  border-right: 1px solid var(--lightgray);
+  padding-right: 1.5rem;
+  @media all and ($mobile) { border-right: none; }
+}
+
+.page-title {
+  margin: 0;
+  font-size: 1.5rem;
+  line-height: 1.15;
+  font-style: italic;
+  font-family: var(--headerFont);
+  a { text-decoration: none; color: var(--dark); }
+}
+
+.explorer a { text-decoration: none; font-weight: 400; }
+
+// ── article column ──────────────────────────────────────────────────
+.page > #quartz-body .center {
+  max-width: 42rem;
+  margin-inline: auto;
+}
+
+.page > #quartz-body .page-header {
+  margin-top: $topSpacing;
+}
+
+.content-meta { margin-bottom: 0.5rem; }
+
+.tags .tag-link,
+a.internal.tag-link {
+  font-family: $mono;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  padding: 0.1rem 0.55rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--secondary);
+  &:hover { border-color: var(--tertiary); color: var(--tertiary); }
+}
+
+// ── right margin ────────────────────────────────────────────────────
+.page > #quartz-body .sidebar.right {
+  padding-left: 1.5rem;
+  overflow-y: auto;
+  gap: 1.8rem;
+}
+.graph > .graph-outer {
+  border: 1px solid var(--lightgray);
+  border-radius: 0;
+  background: color-mix(in srgb, var(--lightgray) 35%, var(--light));
+}
+.backlinks ul { padding-left: 0; list-style: none; }
+.backlinks a { text-decoration: none; font-size: 0.85rem; }
+
+// ── blocks ──────────────────────────────────────────────────────────
+blockquote {
+  border-left: 2px solid var(--tertiary);
+  padding-left: 1rem;
+  font-style: italic;
+  color: var(--darkgray);
+}
+
+pre {
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--lightgray) 40%, var(--light));
+  font-size: 0.8rem;
+}
+code {
+  font-family: $mono;
+  font-size: 0.82em;
+  background: color-mix(in srgb, var(--lightgray) 55%, var(--light));
+  border-radius: 4px;
+}
+
+hr { border: none; border-top: 1px solid var(--lightgray); }
+
+table { font-size: 0.9rem; th { font-family: $mono; font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase; } }
+
+.callout { border-radius: 6px; border: 1px solid var(--lightgray); }
+
+// ── search button ───────────────────────────────────────────────────
+.search > .search-button { border-radius: 999px; font-family: $mono; font-size: 0.78rem; }
+
+// ── footer ──────────────────────────────────────────────────────────
+footer { border-top: 1px solid var(--lightgray); padding-top: 1rem; margin-top: 3rem; }
+footer ul { list-style: none; padding: 0; display: flex; gap: 1rem; }

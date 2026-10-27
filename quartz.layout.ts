@@ -5,7 +5,12 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.RecentNotes({ title: "recently tended", limit: 6 }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+  ],
   footer: Component.Footer({
     links: {
       github: "https://github.com/jubilancy/jubilancy.github.io",
@@ -45,8 +50,10 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
-  Component.DesktopOnly(Component.TableOfContents()),
-],
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Graph(),
+    Component.Backlinks(),
+  ],
 }
 
 // components for pages that display lists of pages (e.g. tags or folders)
