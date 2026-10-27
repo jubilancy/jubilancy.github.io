@@ -95,7 +95,7 @@ elevation: color-blocking
 - **Masthead (left rail):** site title in italic serif, mono explorer beneath, hairline right border.
 - **Article header:** mono breadcrumb, large italic title, mono meta line (date · reading time), tags as outlined chips.
 - **Right margin:** TOC, then backlinks; each headed by a mono uppercase label.
-- **Home:** recent notes list after the intro.
+- **Home:** intro only.
 
 ## Performance
 
@@ -106,7 +106,7 @@ elevation: color-blocking
 
 ## Details
 
-- **Illuminated initial.** Notes of 600+ words get a gold-leaf square with a vermilion UnifrakturMaguntia capital and small-caps opening line (`article.long-note` in `custom.scss`, class set in `pages/Content.tsx`).
+- **Engraved initials.** Notes of 600+ words whose first block is a paragraph get a 16th-century historiated initial (maroon panel, parchment letter) and a small-caps first line. Twenty-one letters are hosted in `quartz/static/dropcaps/` (credits in `CREDITS.md`); O, X and Z fall back to a blackletter capital on the same panel. See `util/dropcap.ts` and `.dropcap` in `custom.scss`.
 - **Stages.** `stage: inked | rubricated | illuminated` in frontmatter shows a mono chip next to the date; words live in `quartz/util/stages.ts`.
 - **Fonts are self-hosted** in `quartz/static/fonts/` with their licenses (Luxi Mono: Bigelow & Holmes Luxi License, unmodified files; UnifrakturMaguntia: SIL OFL). Only Newsreader comes from Google Fonts.
 - **No link previews.** Popovers are off.
