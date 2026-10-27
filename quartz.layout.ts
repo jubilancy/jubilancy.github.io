@@ -43,11 +43,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-      folderDefaultState: "collapsed",
-      useSavedState: false,
-      folderClickBehavior: "link",
-    }),
+    Component.TopLevelNav(),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -71,11 +67,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({
-      folderDefaultState: "collapsed",
-      useSavedState: false,
-      folderClickBehavior: "link",
-    }),
+    Component.TopLevelNav(),
   ],
   right: [],
 }

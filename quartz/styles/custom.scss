@@ -50,7 +50,7 @@ a {
 // ── mono marginalia ─────────────────────────────────────────────────
 .breadcrumb-container,
 .content-meta,
-.explorer,
+.top-nav,
 .toc,
 .backlinks,
 .graph,
@@ -65,16 +65,17 @@ footer,
 footer,
 .page-title + * ,
 .toc > button,
+.top-nav > h3,
 .backlinks > h3,
 .graph > h3,
-.recent-notes > h3,
-.explorer > button {
+.recent-notes > h3 {
   font-size: 0.72rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--gray);
 }
 
+.top-nav > h3,
 .backlinks > h3,
 .graph > h3,
 .recent-notes > h3 {
@@ -100,11 +101,12 @@ footer,
   a { text-decoration: none; color: var(--dark); }
 }
 
-.explorer a { text-decoration: none; font-weight: 400; }
+
 
 // ── article column ──────────────────────────────────────────────────
 .page > #quartz-body .center {
   max-width: 42rem;
+  min-width: 0;
   margin-inline: auto;
 }
 
@@ -174,3 +176,14 @@ table { font-size: 0.9rem; th { font-family: $mono; font-size: 0.72rem; letter-s
 // ── footer ──────────────────────────────────────────────────────────
 footer { border-top: 1px solid var(--lightgray); padding-top: 1rem; margin-top: 3rem; }
 footer ul { list-style: none; padding: 0; display: flex; gap: 1rem; }
+
+// ── table of contents ───────────────────────────────────────────────
+.toc a { text-decoration: none; font-weight: 400; font-size: 0.8rem; }
+.toc > button h3 {
+  font: 500 0.72rem $mono;
+  font-style: normal;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gray);
+  margin: 0;
+}
