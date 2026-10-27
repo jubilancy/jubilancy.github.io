@@ -5,44 +5,62 @@ import HeaderConstructor from "../../components/Header"
 import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
-import { pathToRoot } from "../../util/path"
+import { pathToRoot, resolveRelative } from "../../util/path"
+import { paginateTree, partSlug, retargetAnchors } from "../../util/paginate"
 import { defaultContentPageLayout, sharedPageComponents } from "../../../quartz.layout"
 import { Content } from "../../components"
 import { styleText } from "util"
 import { write } from "./helpers"
 import { BuildCtx } from "../../util/ctx"
-import { Node } from "unist"
+import { Root } from "hast"
 import { StaticResources } from "../../util/resources"
 import { QuartzPluginData } from "../vfile"
 
-async function processContent(
+async function* processContent(
   ctx: BuildCtx,
-  tree: Node,
+  tree: Root,
   fileData: QuartzPluginData,
   allFiles: QuartzPluginData[],
   opts: FullPageLayout,
   resources: StaticResources,
 ) {
-  const slug = fileData.slug!
+  const baseSlug = fileData.slug!
   const cfg = ctx.cfg.configuration
-  const externalResources = pageResources(pathToRoot(slug), resources)
-  const componentData: QuartzComponentProps = {
-    ctx,
-    fileData,
-    externalResources,
-    cfg,
-    children: [],
-    tree,
-    allFiles,
+  const { parts, idToPart } = paginateTree(tree, cfg.pageWeightBudget)
+  const slugs = parts.map((_, i) => partSlug(baseSlug, i))
+  if (parts.length > 1) {
+    retargetAnchors(parts, idToPart, (from, to) => resolveRelative(slugs[from], slugs[to]))
   }
 
-  const content = renderPage(cfg, slug, componentData, opts, externalResources)
-  return write({
-    ctx,
-    content,
-    slug,
-    ext: ".html",
-  })
+  for (const [i, part] of parts.entries()) {
+    const slug = slugs[i]
+    const partData: QuartzPluginData =
+      parts.length > 1
+        ? {
+            ...fileData,
+            slug,
+            pagination: {
+              index: i + 1,
+              total: parts.length,
+              slugs,
+              idToPart: Object.fromEntries(idToPart),
+            },
+          }
+        : fileData
+    const externalResources = pageResources(pathToRoot(slug), resources)
+    const componentData: QuartzComponentProps = {
+      ctx,
+      fileData: partData,
+      externalResources,
+      cfg,
+      children: [],
+      tree: part,
+      allFiles,
+    }
+
+    const content = renderPage(cfg, slug, componentData, opts, externalResources)
+    yield write({ ctx, content, slug, ext: ".html" })
+  }
 }
 
 export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOpts) => {
@@ -85,7 +103,7 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
 
         // only process home page, non-tag pages, and non-index pages
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
-        yield processContent(ctx, tree, file.data, allFiles, opts, resources)
+        yield* processContent(ctx, tree as Root, file.data, allFiles, opts, resources)
       }
 
       if (!containsIndex) {
@@ -114,7 +132,7 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
         if (!changedSlugs.has(slug)) continue
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
 
-        yield processContent(ctx, tree, file.data, allFiles, opts, resources)
+        yield* processContent(ctx, tree as Root, file.data, allFiles, opts, resources)
       }
     },
   }

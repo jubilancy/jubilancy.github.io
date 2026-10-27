@@ -179,3 +179,15 @@ footer ul { list-style: none; padding: 0; display: flex; gap: 1rem; }
   color: var(--gray);
   margin: 0;
 }
+
+// external-link marker drawn in CSS: the default per-link inline SVG added ~2 nodes and
+// ~450 bytes to every external link, which dominated link-heavy notes
+a.external::after {
+  content: "\2197";
+  font-family: $mono;
+  font-size: 0.7em;
+  margin-left: 0.15em;
+  opacity: 0.6;
+  text-decoration: none;
+  display: inline-block;
+}

@@ -6,6 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    Component.Pager(),
     Component.ConditionalRender({
       component: Component.RecentNotes({ title: "recently tended", limit: 6 }),
       condition: (page) => page.fileData.slug === "index",
@@ -29,6 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.Pager(),
   ],
   left: [
     Component.PageTitle(),
@@ -45,10 +47,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.TopLevelNav(),
   ],
-  right: [
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  right: [Component.DesktopOnly(Component.TableOfContents()), Component.Backlinks()],
 }
 
 // components for pages that display lists of pages (e.g. tags or folders)

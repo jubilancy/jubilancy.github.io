@@ -6,6 +6,7 @@ import { classNames } from "../util/lang"
 // @ts-ignore
 import script from "./scripts/toc.inline"
 import { i18n } from "../i18n"
+import { resolveRelative } from "../util/path"
 import OverflowListFactory from "./OverflowList"
 import { concatenateResources } from "../util/resources"
 
@@ -15,6 +16,14 @@ interface Options {
 
 const defaultOptions: Options = {
   layout: "modern",
+}
+
+// on a paginated note the heading may live on another part
+function tocHref(fileData: QuartzComponentProps["fileData"], id: string): string {
+  const pagination = fileData.pagination
+  const target = pagination?.idToPart[id]
+  if (!pagination || target === undefined || target === pagination.index - 1) return `#${id}`
+  return `${resolveRelative(fileData.slug!, pagination.slugs[target])}#${id}`
 }
 
 let numTocs = 0
@@ -27,6 +36,15 @@ export default ((opts?: Partial<Options>) => {
     cfg,
   }: QuartzComponentProps) => {
     if (!fileData.toc) {
+      return null
+    }
+
+    // on a paginated note only list this part's headings; the pager reaches the other parts
+    const pagination = fileData.pagination
+    const entries = pagination
+      ? fileData.toc.filter((entry) => pagination.idToPart[entry.slug] === pagination.index - 1)
+      : fileData.toc
+    if (entries.length === 0) {
       return null
     }
 
@@ -59,9 +77,9 @@ export default ((opts?: Partial<Options>) => {
           id={id}
           class={fileData.collapseToc ? "collapsed toc-content" : "toc-content"}
         >
-          {fileData.toc.map((tocEntry) => (
+          {entries.map((tocEntry) => (
             <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
-              <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
+              <a href={tocHref(fileData, tocEntry.slug)} data-for={tocEntry.slug}>
                 {tocEntry.text}
               </a>
             </li>
@@ -84,9 +102,9 @@ export default ((opts?: Partial<Options>) => {
           <h3>{i18n(cfg.locale).components.tableOfContents.title}</h3>
         </summary>
         <ul>
-          {fileData.toc.map((tocEntry) => (
+          {entries.map((tocEntry) => (
             <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
-              <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
+              <a href={tocHref(fileData, tocEntry.slug)} data-for={tocEntry.slug}>
                 {tocEntry.text}
               </a>
             </li>

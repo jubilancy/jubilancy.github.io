@@ -12,6 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
+    pageWeightBudget: 2500,
     analytics: {
       provider: 'umami',
         host: 'https://cloud.umami.is',
@@ -71,7 +72,7 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({ markdownLinkResolution: "shortest", externalLinkIcon: false }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],

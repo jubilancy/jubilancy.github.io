@@ -63,6 +63,11 @@ export interface GlobalConfiguration {
   enableSPA: boolean
   /** Whether to display Wikipedia-style popovers when hovering over links */
   enablePopovers: boolean
+  /**
+   * Notes heavier than this are split into several pages at build time. Weight counts 1 per
+   * element, +2 per link, +1 per 100 characters of text. Defaults to 2500.
+   */
+  pageWeightBudget?: number
   /** Analytics mode */
   analytics: Analytics
   /** Glob patterns to not search */

@@ -28,6 +28,8 @@ interface Options {
   rssFullHtml: boolean
   rssSlug: string
   includeEmptyFiles: boolean
+  /** max characters of each note's text kept in the client search index */
+  searchExcerptLength: number
 }
 
 const defaultOptions: Options = {
@@ -37,6 +39,7 @@ const defaultOptions: Options = {
   rssFullHtml: false,
   rssSlug: "index",
   includeEmptyFiles: true,
+  searchExcerptLength: 1500,
 }
 
 function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string {
@@ -107,9 +110,11 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             slug,
             filePath: file.data.relativePath!,
             title: file.data.frontmatter?.title!,
-            links: file.data.links ?? [],
+            // the client no longer reads outgoing links (no graph / explorer), and big
+            // link directories made this index huge
+            links: [],
             tags: file.data.frontmatter?.tags ?? [],
-            content: file.data.text ?? "",
+            content: (file.data.text ?? "").slice(0, opts.searchExcerptLength),
             richContent: opts?.rssFullHtml
               ? escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true }))
               : undefined,

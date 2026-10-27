@@ -96,3 +96,10 @@ elevation: color-blocking
 - **Article header:** mono breadcrumb, large italic title, mono meta line (date · reading time), tags as outlined chips.
 - **Right margin:** TOC, then backlinks; each headed by a mono uppercase label.
 - **Home:** recent notes list after the intro.
+
+## Performance
+
+- **Top-level nav only.** The left rail is generated at build time and lists top-level folders and root pages; there is no client-side file tree.
+- **Search index excerpts.** `static/contentIndex.json` keeps the first 1,500 characters of each note and no link lists (`searchExcerptLength` in the ContentIndex plugin).
+- **Page weight budget.** Notes heavier than `pageWeightBudget` (2,500 in `quartz.config.ts`) are split at build time into `note`, `note-page-2`, … with a pager. Weight is 1 per element, +2 per link, +1 per 30 characters of text. Parts break at headings when possible, and long lists, tables and paragraphs are cut between items.
+- **External-link marker in CSS.** The per-link inline SVG is off; `a.external::after` draws the arrow.
