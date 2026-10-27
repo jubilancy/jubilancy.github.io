@@ -11,6 +11,8 @@ import ContentMeta from "./ContentMeta"
 import Spacer from "./Spacer"
 import TableOfContents from "./TableOfContents"
 import Explorer from "./Explorer"
+import TopLevelNav from "./TopLevelNav"
+import Pager from "./Pager"
 import TagList from "./TagList"
 import Graph from "./Graph"
 import Backlinks from "./Backlinks"
@@ -37,6 +39,8 @@ export {
   Spacer,
   TableOfContents,
   Explorer,
+  TopLevelNav,
+  Pager,
   TagList,
   Graph,
   Backlinks,

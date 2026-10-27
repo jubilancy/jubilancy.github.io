@@ -5,7 +5,26 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Pager(),
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "recently tended",
+        limit: 6,
+        showTags: false,
+        filter: (f, page) => {
+          const folder = page.slug!.slice(0, -"index".length)
+          return f.slug!.startsWith(folder) && !f.slug!.endsWith("/index")
+        },
+      }),
+      condition: (page) =>
+        page.fileData.slug!.endsWith("/index") && !page.fileData.slug!.startsWith("tags/"),
+    }),
+    Component.ConditionalRender({
+      component: Component.RecentNotes({ title: "recently tended", limit: 6 }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+  ],
   footer: Component.Footer({
     links: {
       github: "https://github.com/jubilancy/jubilancy.github.io",
@@ -24,6 +43,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.Pager(),
   ],
   left: [
     Component.PageTitle(),
@@ -38,15 +58,9 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-      folderDefaultState: "collapsed",
-      useSavedState: false,
-      folderClickBehavior: "link",
-    }),
+    Component.TopLevelNav(),
   ],
-  right: [
-  Component.DesktopOnly(Component.TableOfContents()),
-],
+  right: [Component.DesktopOnly(Component.TableOfContents()), Component.Backlinks()],
 }
 
 // components for pages that display lists of pages (e.g. tags or folders)
@@ -64,11 +78,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({
-      folderDefaultState: "collapsed",
-      useSavedState: false,
-      folderClickBehavior: "link",
-    }),
+    Component.TopLevelNav(),
   ],
   right: [],
 }

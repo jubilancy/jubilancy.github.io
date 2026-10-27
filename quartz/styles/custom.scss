@@ -1,6 +1,281 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
-// put your custom CSS here!
-h1, h2, h3, h4, h5, h6 {
+// Commonplace Garden — see DESIGN.md at the repo root.
+
+$mono: var(--codeFont);
+
+// ── self-hosted fonts (licenses sit next to the files in quartz/static/fonts) ──
+@font-face {
+  font-family: "Luxi Mono";
+  src: url("/static/fonts/luxi-mono/luximr.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Luxi Mono";
+  src: url("/static/fonts/luxi-mono/luximb.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Luxi Mono";
+  src: url("/static/fonts/luxi-mono/luximri.ttf") format("truetype");
+  font-weight: 400;
   font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Luxi Mono";
+  src: url("/static/fonts/luxi-mono/luximbi.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UnifrakturMaguntia";
+  src: url("/static/fonts/unifraktur-maguntia/UnifrakturMaguntia-latin.woff2") format("woff2");
+  font-display: swap;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  line-height: 1.7;
+}
+
+// ── headings: italic serif ──────────────────────────────────────────
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--headerFont);
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  color: var(--dark);
+}
+article > h1 { font-size: 2.6rem; line-height: 1.1; }
+h2 { font-size: 1.6rem; }
+h3 { font-size: 1.3rem; }
+
+// ── links: ink + underline, no fills ────────────────────────────────
+a {
+  font-weight: 500;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  text-decoration-color: color-mix(in srgb, var(--secondary) 40%, transparent);
+
+  &:hover {
+    color: var(--tertiary);
+    text-decoration-color: var(--tertiary);
+  }
+
+  &.internal {
+    background-color: transparent;
+    padding: 0;
+    border-radius: 0;
+    &.tag-link { text-decoration: none; }
+  }
+}
+
+// ── mono marginalia ─────────────────────────────────────────────────
+.breadcrumb-container,
+.content-meta,
+.top-nav,
+.toc,
+.backlinks,
+.recent-notes,
+footer,
+.tags {
+  font-family: $mono;
+}
+
+.breadcrumb-container,
+.content-meta,
+footer,
+.page-title + * ,
+.toc > button,
+.top-nav > h3,
+.backlinks > h3,
+.recent-notes > h3 {
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gray);
+}
+
+.top-nav > h3,
+.backlinks > h3,
+.recent-notes > h3 {
+  font-style: normal;
+  font-family: $mono;
+  font-weight: 500;
+  margin: 0 0 0.6rem;
+}
+
+// ── left rail: masthead ─────────────────────────────────────────────
+.page > #quartz-body .sidebar.left {
+  border-right: 1px solid var(--lightgray);
+  padding-right: 1.5rem;
+  @media all and ($mobile) { border-right: none; }
+}
+
+.page-title {
+  margin: 0;
+  font-size: 1.5rem;
+  line-height: 1.15;
+  font-style: italic;
+  font-family: var(--headerFont);
+  a { text-decoration: none; color: var(--dark); }
+}
+
+
+
+// ── article column ──────────────────────────────────────────────────
+.page > #quartz-body .center {
+  max-width: 42rem;
+  min-width: 0;
+  margin-inline: auto;
+}
+
+.page > #quartz-body .page-header {
+  margin-top: $topSpacing;
+}
+
+.content-meta { margin-bottom: 0.5rem; }
+
+.tags .tag-link,
+a.internal.tag-link {
+  font-family: $mono;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  padding: 0.1rem 0.55rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--secondary);
+  &:hover { border-color: var(--tertiary); color: var(--tertiary); }
+}
+
+// ── right margin ────────────────────────────────────────────────────
+.page > #quartz-body .sidebar.right {
+  padding-left: 1.5rem;
+  overflow-y: auto;
+  gap: 1.8rem;
+}
+.backlinks ul { padding-left: 0; list-style: none; }
+.backlinks a { text-decoration: none; font-size: 0.85rem; }
+
+// ── blocks ──────────────────────────────────────────────────────────
+blockquote {
+  border-left: 2px solid var(--tertiary);
+  padding-left: 1rem;
+  font-style: italic;
+  color: var(--darkgray);
+}
+
+pre {
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--lightgray) 40%, var(--light));
+  font-size: 0.8rem;
+}
+code {
+  font-family: $mono;
+  font-size: 0.82em;
+  background: color-mix(in srgb, var(--lightgray) 55%, var(--light));
+  border-radius: 4px;
+}
+
+hr { border: none; border-top: 1px solid var(--lightgray); }
+
+table { font-size: 0.9rem; th { font-family: $mono; font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase; } }
+
+.callout { border-radius: 6px; border: 1px solid var(--lightgray); }
+
+// ── search button ───────────────────────────────────────────────────
+.search > .search-button { border-radius: 999px; font-family: $mono; font-size: 0.78rem; }
+
+// ── footer ──────────────────────────────────────────────────────────
+footer { border-top: 1px solid var(--lightgray); padding-top: 1rem; margin-top: 3rem; }
+footer ul { list-style: none; padding: 0; display: flex; gap: 1rem; }
+
+// ── table of contents ───────────────────────────────────────────────
+.toc a { text-decoration: none; font-weight: 400; font-size: 0.8rem; }
+.toc > button h3 {
+  font: 500 0.72rem $mono;
+  font-style: normal;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gray);
+  margin: 0;
+}
+
+// external-link marker drawn in CSS: the default per-link inline SVG added ~2 nodes and
+// ~450 bytes to every external link, which dominated link-heavy notes
+a.external::after {
+  content: "\2197";
+  font-family: $mono;
+  font-size: 0.7em;
+  margin-left: 0.15em;
+  opacity: 0.6;
+  text-decoration: none;
+  display: inline-block;
+}
+
+// ── illuminated initial and small-caps opening on long notes ─────────
+article.long-note > p:first-of-type {
+  &::first-line {
+    font-variant: small-caps;
+    letter-spacing: 0.05em;
+  }
+
+  &::first-letter {
+    float: left;
+    font-family: "UnifrakturMaguntia", var(--headerFont), serif;
+    font-size: 4.2em;
+    line-height: 0.85;
+    margin: 0.08em 0.6rem 0 0;
+    padding: 0.08em 0.16em 0.02em;
+    color: #9e2b1b; // vermilion
+    background: linear-gradient(135deg, #ecd48a 0%, #c9a24a 55%, #e6cc7f 100%); // gold leaf
+    border: 4px double #8a6a1f;
+    text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.35);
+  }
+}
+
+// ── note stage chip and random-note link ─────────────────────────────
+.stage {
+  display: inline-block;
+  margin-left: 0.5rem;
+  padding: 0 0.5rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  font-family: $mono;
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  line-height: 1.5;
+  color: var(--gray);
+
+  &.stage-rubricated {
+    color: var(--tertiary);
+    border-color: var(--tertiary);
+  }
+  &.stage-illuminated {
+    color: var(--secondary);
+    border-color: var(--secondary);
+  }
+}
+
+// monospace dates plus a stage chip need more room than the default 8em column
+ul.section-ul li.section-li > .section {
+  grid-template-columns: fit-content(20em) 3fr 1fr;
+
+  .meta {
+    white-space: nowrap;
+  }
 }

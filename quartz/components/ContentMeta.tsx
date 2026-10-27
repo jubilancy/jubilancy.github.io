@@ -5,6 +5,7 @@ import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 import { JSX } from "preact"
 import style from "./styles/contentMeta.scss"
+import { StageChip } from "./StageChip"
 
 interface ContentMetaOptions {
   /**
@@ -30,7 +31,12 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
-        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+        segments.push(
+          <span>
+            <Date date={getDate(cfg, fileData)!} locale={cfg.locale} />
+            <StageChip stage={fileData.frontmatter?.stage} />
+          </span>,
+        )
       }
 
       // Display reading time if enabled
