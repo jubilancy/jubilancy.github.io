@@ -53,7 +53,6 @@ a {
 .top-nav,
 .toc,
 .backlinks,
-.graph,
 .recent-notes,
 footer,
 .tags {
@@ -67,7 +66,6 @@ footer,
 .toc > button,
 .top-nav > h3,
 .backlinks > h3,
-.graph > h3,
 .recent-notes > h3 {
   font-size: 0.72rem;
   letter-spacing: 0.08em;
@@ -77,7 +75,6 @@ footer,
 
 .top-nav > h3,
 .backlinks > h3,
-.graph > h3,
 .recent-notes > h3 {
   font-style: normal;
   font-family: $mono;
@@ -134,11 +131,6 @@ a.internal.tag-link {
   padding-left: 1.5rem;
   overflow-y: auto;
   gap: 1.8rem;
-}
-.graph > .graph-outer {
-  border: 1px solid var(--lightgray);
-  border-radius: 0;
-  background: color-mix(in srgb, var(--lightgray) 35%, var(--light));
 }
 .backlinks ul { padding-left: 0; list-style: none; }
 .backlinks a { text-decoration: none; font-size: 0.85rem; }

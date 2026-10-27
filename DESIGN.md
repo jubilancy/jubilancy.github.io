@@ -74,7 +74,7 @@ elevation: color-blocking
 
 - **Paper first.** The page is cream stock; surfaces are slightly darker paper, never white cards with shadows.
 - **Serif to read, mono to navigate.** Newsreader carries prose and headings; JetBrains Mono carries metadata, breadcrumbs, tags, the explorer, and code.
-- **Marginalia.** Table of contents, graph, and backlinks live in the right margin like notes in a book.
+- **Marginalia.** Table of contents and backlinks live in the right margin like notes in a book.
 - **Ink, not fills.** Links are green ink with an underline; hover shifts to terracotta. Highlight fills are reserved for `==marks==`.
 - **Hairlines.** 1px rules separate regions; radius is 0 for structure, 4–8px for tags and code.
 
@@ -94,5 +94,5 @@ elevation: color-blocking
 
 - **Masthead (left rail):** site title in italic serif, mono explorer beneath, hairline right border.
 - **Article header:** mono breadcrumb, large italic title, mono meta line (date · reading time), tags as outlined chips.
-- **Right margin:** TOC, then graph, then backlinks; each headed by a mono uppercase label.
+- **Right margin:** TOC, then backlinks; each headed by a mono uppercase label.
 - **Home:** recent notes list after the intro.
