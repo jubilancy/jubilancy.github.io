@@ -4,13 +4,14 @@ import { Element, ElementContent, Root, Text } from "hast"
  * Wraps the first letter of a note's opening paragraph in a `span.dropcap` so CSS can show an
  * engraved initial in its place. The real letter stays in the text for readers and copy/paste.
  *
- * The initials are Meister E. S.'s Fantastic Alphabet (15th century), which has 23 letters like
- * medieval Latin: J is shown as I, U and W as V.
+ * The initials are cut from the Delamotte ornamental alphabet (see quartz/static/dropcaps/CREDITS.md).
+ * It has 21 letters: J is shown as I and W as V. Letters it lacks (O, X, Z) get `data-letter="plain"`,
+ * which CSS draws as a blackletter capital on a matching panel.
  */
 
-export const DROPCAP_LETTERS = "abcdefghiklmnopqrstvxyz".split("")
+export const DROPCAP_LETTERS = "abcdefghiklmnpqrstuvy".split("")
 
-const ALIASES: Record<string, string> = { j: "i", u: "v", w: "v" }
+const ALIASES: Record<string, string> = { j: "i", w: "v" }
 
 // openings shorter than this are captions or labels, not prose
 const MIN_OPENING_CHARS = 80
@@ -19,7 +20,7 @@ export function dropcapLetter(char: string): string | null {
   const base = char.normalize("NFD")[0]?.toLowerCase()
   if (!base || !/[a-z]/.test(base)) return null
   const letter = ALIASES[base] ?? base
-  return DROPCAP_LETTERS.includes(letter) ? letter : null
+  return DROPCAP_LETTERS.includes(letter) ? letter : "plain"
 }
 
 const isElement = (n: ElementContent): n is Element => n.type === "element"
@@ -62,14 +63,24 @@ function wrapFirstLetter(parent: Element): boolean {
   return false
 }
 
-/** Returns a tree whose first prose paragraph has a drop cap, or the same tree if none fits. */
+const HEADING_TAGS = new Set(["h1", "h2", "h3", "h4", "h5", "h6"])
+
+/**
+ * Returns a tree whose opening paragraph has a drop cap, or the same tree if the note does not open
+ * with one. The opening paragraph is the first block after any headings; a note that starts with a
+ * list, image or table gets none.
+ */
 export function withDropcap(tree: Root): Root {
   const index = tree.children.findIndex(
-    (n) => n.type === "element" && n.tagName === "p" && textLength(n) >= MIN_OPENING_CHARS,
+    (n) =>
+      (n.type === "element" && !HEADING_TAGS.has(n.tagName)) ||
+      (n.type === "text" && n.value.trim() !== ""),
   )
-  if (index === -1) return tree
+  const first = tree.children[index]
+  if (!first || first.type !== "element" || first.tagName !== "p") return tree
+  if (textLength(first) < MIN_OPENING_CHARS) return tree
 
-  const opening = structuredClone(tree.children[index]) as Element
+  const opening = structuredClone(first) as Element
   if (!wrapFirstLetter(opening)) return tree
 
   const children = [...tree.children]

@@ -15,12 +15,15 @@ const prose =
   "Coming of age literary genre that follows a young person's moral and psychological growth."
 
 describe("dropcapLetter", () => {
-  test("maps letters, accents and the missing J, U, W", () => {
+  test("maps letters, accents and the missing J and W", () => {
     assert.strictEqual(dropcapLetter("C"), "c")
     assert.strictEqual(dropcapLetter("É"), "e")
     assert.strictEqual(dropcapLetter("J"), "i")
-    assert.strictEqual(dropcapLetter("u"), "v")
+    assert.strictEqual(dropcapLetter("u"), "u")
     assert.strictEqual(dropcapLetter("W"), "v")
+  })
+  test("letters without an initial are drawn plain", () => {
+    for (const ch of ["O", "x", "Z"]) assert.strictEqual(dropcapLetter(ch), "plain")
   })
   test("rejects non-letters", () => {
     assert.strictEqual(dropcapLetter("1"), null)
@@ -51,6 +54,13 @@ describe("withDropcap", () => {
     const out = withDropcap(tree)
     const strong = (out.children[0] as Element).children[0] as Element
     assert.strictEqual((strong.children[0] as Element).properties.dataLetter, "b")
+  })
+
+  test("only the first block after the headings can open with a drop cap", () => {
+    const afterList = root(el("ul", [el("li", [text("item")])]), el("p", [text(prose)]))
+    assert.strictEqual(withDropcap(afterList), afterList)
+    const afterHeadings = root(el("h1", [text("A")]), el("h2", [text("B")]), el("p", [text(prose)]))
+    assert.notStrictEqual(withDropcap(afterHeadings), afterHeadings)
   })
 
   test("skips short openings, non-letters and code", () => {
