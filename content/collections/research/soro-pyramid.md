@@ -1,0 +1,34 @@
+---
+tags:
+  - research
+  - eliana-research-collection
+date: 2026-11-05
+---
+(This week’s report is a 6 minute read)
+
+*BLUF:* What characterizes civil war - and why does it happen? Is there an underlying process going on? There are models to understand what’s happening in internal conflicts around the world - both to classify factors and understand the steps. By looking at civil conflict more as a process than an event, we can be smarter about how we approach the problem.
+
+_**Brady here.**_[Deadly protests against Chinese authorities in Hong Kong.](https://www.msn.com/en-ph/news/world/hong-kong-protests-police-threaten-to-use-lethal-force-amid-standoff/ar-BBWU7FE?li=BBr8HnF) [Strikes and demonstrations driving down currency values in Chile](https://www.bbc.com/news/world-latin-america-50459961). [Drug cartels defeating the military in Mexico](https://www.nytimes.com/2019/10/18/world/americas/mexico-cartel-chapo-son-guzman.html). There’s a lot going on in the world today that looks like civil war, or something very close to it. But our information is confusing: our news media covers it selectively and applies terms haphazardly. So what characterizes civil war -and why does it happen? And who benefits? Is there an underlying process going on when we think we see it? Green Berets are trained to operate within the conditions that lead to civil war - so lets look at what they learn. If you dig, you’ll see that civil war is one of many steps on a path to revolution - a step which sometimes is reached and other times skipped over. 
+
+These days, everything is civil war. We use the term to describe insurgencies, _coups d’etat_, and really any conflict that takes place within a country whether or not the people actually even take part. The term itself is an invention of [Thomas Hobbes](https://en.wikipedia.org/wiki/Thomas_Hobbes) to describe the English Civil War in [his book Leviathan](https://en.wikipedia.org/wiki/Leviathan_\(Hobbes_book\)) - considered one of the most important texts in western politics. Here he described it as a war of “all against all” and made the case for strong, unified government as a way to avoid civil war. So to put some bounds on this thing, lets confine civil war to conflicts in which significant portion of the population actually takes part. A _coup d’etat_, where a military seizes control of the government from civilian authorities could, and often does, completely bypass the active involvement of the population. 
+
+In any context, civil war is often used to describe insurgency, where a people use armed violence to change their government. Good government provides a people with a way to resolve their differences or correct injustices internally, and when this capability is lost, you begin to see the conditions necessary for an insurgency. Probably the simplest way of examining the factors that lead to an insurgency, that I’ve seen, is the [application of the “Fire Triangle” to civil conflict and insurgency](https://smallwarsjournal.com/index.php/jrnl/art/deterring-competition-short-war-are-gray-zones-ardennes-our-modern-maginot-line). To build a fire, one needs three things: fuel, heat and oxygen - and in firefighting contexts, the thinking goes, that if you remove one of these necessities, you can put out the fire. In the insurgency application, the triangle is population, governance and grievance. An ineffective or distrusted government fails to provide a legal, controlled means to resolve legitimate grievances, and past a certain point, the people act outside of legal means and a fire starts. When this gets really bad, they seek to replace government with one that provides the order that’s needed. Additionally, I’d say, “sparks” that lead to a raging insurgency fire can include events that cause near-immediate and irrevocable outrage and get the fire going hot and fast - an example you’re familiar with would be the [firing on Fort Sumter](https://www.battlefields.org/learn/civil-war/battles/fort-sumter), which is regarded as the inflammatory event that started the American Civil War.
+
+[![](https://substackcdn.com/image/fetch/$s_!SOhA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F82de7382-43a2-4fd2-bea6-ac87e6acf027_1310x654.png)](https://substackcdn.com/image/fetch/$s_!SOhA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F82de7382-43a2-4fd2-bea6-ac87e6acf027_1310x654.png)
+
+[Image source: Small Wars Journal](https://smallwarsjournal.com/index.php/jrnl/art/deterring-competition-short-war-are-gray-zones-ardennes-our-modern-maginot-line)
+
+In the image above, US Army Special Forces [Colonel Robert C. Jones](https://smallwarsjournal.com/author/robert-c-jones) explains how a low-trust governance environment sets the conditions for insurgency. This has been the subject of study since the Second World War with the realization that in warfare, there are ways to speed up the combustion of civil war in your opponent's backyard. Civil wars create the right conditions for unconventional warfare - meaning that with civil war you typically get foreign intervention. As we’ve [stated before here on The Quartermaster](https://quartermaster.substack.com/p/the-quartermaster-monday-5-august), there’s a step-by-step process to feed the insurgency fire toward civil war - and the one we described was developed by 20th century communist leaders and documented by the US Special Operations Research Office (SORO) - and [what’s become the Assessing Revolutionary and Insurgent Strategies (ARIS) Studies project](https://www.soc.mil/ARIS/ARIS.html).
+
+[![](https://substackcdn.com/image/fetch/$s_!boub!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd53c6f40-4908-437f-a2ec-b5ff8c483a75_1100x1190.jpeg)](https://substackcdn.com/image/fetch/$s_!boub!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd53c6f40-4908-437f-a2ec-b5ff8c483a75_1100x1190.jpeg)
+
+Just about any insurgency can be mapped along these steps. Image source: [ARIS](https://www.soc.mil/ARIS/books/pdf/HumanFactorsS.pdf).
+
+
+
+
+This was made in 1966 by the Special Operations Research Office, and is known as the SORO Pyramid. I don't need to add context as much as I ask that you look at this and ask yourself: "where are we on this?"
+July 16
+dustofficers 1w*•
+by author
+What's cool is you can pretty much avoid all this by addressing the base layer (dissatisfaction with the political / social / economic situation)
