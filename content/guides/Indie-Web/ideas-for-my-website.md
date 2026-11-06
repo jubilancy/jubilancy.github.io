@@ -57,7 +57,7 @@ give me ideas for me to do for my love of widgets and dynamic embeds/add-ons as 
 # gemini response
 
 ### **TL;DR**
-Since you love **widgets** and **dynamic embeds**, [GitHub Actions](https://github.com/features/actions) can act as your "backend" to fetch fresh data and inject it into your [Quartz](https://quartz.jzhao.xyz/) site at **[jubilancy.github.io](https://jubilancy.github.io)**. You can automate everything from "Now Playing" widgets to dynamic symbol libraries without ever touching a terminal.
+Since you love **widgets** and **dynamic embeds**, [GitHub Actions](https://github.com/features/actions) can act as your "backend" to fetch fresh data and inject it into your [Quartz](https://quartz.jzhao.xyz/) site at **[notes.glosse.me](https://notes.glosse.me)**. You can automate everything from "Now Playing" widgets to dynamic symbol libraries without ever touching a terminal.
 
 ---
 
