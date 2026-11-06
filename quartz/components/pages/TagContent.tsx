@@ -47,7 +47,9 @@ export default ((opts?: Partial<TagContentOptions>) => {
         ...new Set(
           allFiles.flatMap((data) => data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes),
         ),
-      ].sort((a, b) => a.localeCompare(b))
+      ]
+        .filter((tag) => tag !== "")
+        .sort((a, b) => a.localeCompare(b))
       return (
         <div class="popover-hint">
           <article class={classes}>

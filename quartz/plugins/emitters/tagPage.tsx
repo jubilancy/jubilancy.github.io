@@ -32,7 +32,8 @@ function computeTagInfo(
   const tagDescriptions: Record<string, ProcessedContent> = Object.fromEntries(
     [...tags].map((tag) => {
       const title =
-        tag === "index"
+        // "" is the page at /tags, which shows the same tag list as /tags/index
+        tag === "index" || tag === ""
           ? i18n(locale).pages.tagContent.tagIndex
           : `${i18n(locale).pages.tagContent.tag}: ${tag}`
       return [
