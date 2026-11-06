@@ -51,7 +51,7 @@ reading stopped at [https://github.com/rzashakeri/beautify-github-profile#21--re
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=600&size=200&duration=997&pause=108&center=true&vCenter=true&multiline=true&width=800&height=800&lines=hi!;i'm;eliana)](https://git.io/typing-svg)
 
 
-### 👋 hey, i'm ellie! <a href="https://jubilancy.github.io">🐱‍💻</a>
+### 👋 hey, i'm ellie! <a href="https://notes.glosse.me">🐱‍💻</a>
 
 here's what i'm currently listening to!! (or just my latest track on last.fm!):
 

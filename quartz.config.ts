@@ -10,6 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "the commonplace notebook for eliana",
     pageTitleSuffix: "",
+    tagPageTitleSuffix: " | notes.glosse.me",
     enableSPA: true,
     enablePopovers: false,
     pageWeightBudget: 2500,
@@ -19,7 +20,7 @@ const config: QuartzConfig = {
         websiteId: '163553f5-45c0-4291-8423-20bdf8cd73d0'
     },
     locale: "en-US",
-    baseUrl: "jubilancy.github.io",
+    baseUrl: "notes.glosse.me",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

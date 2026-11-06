@@ -59,6 +59,13 @@ async function* processFolderInfo(
   }
 }
 
+// The locale's "folder" label may be empty (this site's is); then the title is just the folder name.
+function folderTitle(folder: SimpleSlug, locale: keyof typeof TRANSLATIONS): string {
+  const name = stripSlashes(folder).split("/").pop() ?? folder
+  const label = i18n(locale).pages.folderContent.folder
+  return label ? `${label}: ${name}` : name
+}
+
 function computeFolderInfo(
   folders: Set<SimpleSlug>,
   content: ProcessedContent[],
@@ -71,7 +78,7 @@ function computeFolderInfo(
       defaultProcessedContent({
         slug: joinSegments(folder, "index") as FullSlug,
         frontmatter: {
-          title: `${i18n(locale).pages.folderContent.folder}: ${folder}`,
+          title: folderTitle(folder, locale),
           tags: [],
         },
       }),

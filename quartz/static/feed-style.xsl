@@ -54,7 +54,7 @@
 
             <h3>How to Follow</h3>
             <ol>
-                <li><strong>Copy the link:</strong> <code>https://jubilancy.github.io/index.xml</code></li>
+                <li><strong>Copy the link:</strong> <code>https://notes.glosse.me/index.xml</code></li>
                 <li><strong>Paste it</strong> into your favorite reader (like <a href="https://netnewswire.com/">NetNewsWire</a>, <a href="https://feedly.com/">Feedly</a>, or <a href="https://freshrss.org/">FreshRSS</a>).</li>
             </ol>
 
