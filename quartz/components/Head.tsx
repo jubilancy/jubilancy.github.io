@@ -12,7 +12,9 @@ export default (() => {
     externalResources,
     ctx,
   }: QuartzComponentProps) => {
-    const titleSuffix = cfg.pageTitleSuffix ?? ""
+    const isTagPage = fileData.slug === "tags" || fileData.slug?.startsWith("tags/")
+    const titleSuffix =
+      (isTagPage ? cfg.tagPageTitleSuffix : undefined) ?? cfg.pageTitleSuffix ?? ""
     const title =
       (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
     const description =

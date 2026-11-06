@@ -33,9 +33,7 @@ function computeTagInfo(
     [...tags].map((tag) => {
       const title =
         // "" is the page at /tags, which shows the same tag list as /tags/index
-        tag === "index" || tag === ""
-          ? i18n(locale).pages.tagContent.tagIndex
-          : `${i18n(locale).pages.tagContent.tag}: ${tag}`
+        tag === "index" || tag === "" ? i18n(locale).pages.tagContent.tagIndex : `#${tag}`
       return [
         tag,
         defaultProcessedContent({
@@ -54,7 +52,7 @@ function computeTagInfo(
       if (tags.has(tag)) {
         tagDescriptions[tag] = [tree, file]
         if (file.data.frontmatter?.title === tag) {
-          file.data.frontmatter.title = `${i18n(locale).pages.tagContent.tag}: ${tag}`
+          file.data.frontmatter.title = `#${tag}`
         }
       }
     }

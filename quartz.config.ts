@@ -10,6 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "the commonplace notebook for eliana",
     pageTitleSuffix: "",
+    tagPageTitleSuffix: " | notes.glosse.me",
     enableSPA: true,
     enablePopovers: false,
     pageWeightBudget: 2500,
