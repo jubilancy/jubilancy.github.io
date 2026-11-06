@@ -19,7 +19,7 @@ from pathlib import Path
 
 # ─── Configuration ────────────────────────────────────────────────────────────
 
-SITE_URL = "https://jubilancy.github.io"  # ← change to your actual URL
+SITE_URL = "https://notes.glosse.me"  # ← change to your actual URL
 SITE_TITLE = "eliana's site"                   # ← change to your site name
 SITE_DESCRIPTION = "my commonplace notebook and digital garden"
 

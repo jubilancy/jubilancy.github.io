@@ -1,5 +1,5 @@
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-# welcome to my [digital garden](https://jzhao.xyz/posts/networked-thought) @ [jubilancy.github.io](http://jubilancy.github.io/) !
+# welcome to my [digital garden](https://jzhao.xyz/posts/networked-thought) @ [notes.glosse.me](https://notes.glosse.me/) !
 ## a personal website curated with lists, notes, guides, tools etc. built with github pages, quartz, and markdown.
 
 ### tech stack
